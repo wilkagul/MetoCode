@@ -1,2 +1,2 @@
 # MetoCode
-Google Uyguluma Akademisi Oyun Prokesi
+Google Uyguluma Akademisi Oyun Projesi
