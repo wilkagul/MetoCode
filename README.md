@@ -145,7 +145,8 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 
 ## Oyunun Görselleri, Screenshot
 
-- **Görselelr Yüklenecek**: % 0
+- **Oyundan Bir Görsel:**
+  ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/Game/Sprint-1.jpeg)
 
 ## Sprint Review
 
