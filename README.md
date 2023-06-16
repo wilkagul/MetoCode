@@ -117,6 +117,13 @@ Bu projede en büyük eksikliğimiz projeye 3 kişi olmamızdır, ilk sprint boy
 
 - **Puan tamamlama mantığı**:
 
-## Sprint Puanlama
+## Daily Scrum
 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum](hhttps://github.com/wilkagul/MetoCod/blob/main/Assets/Spirnt/Spirnt%20-%201/DailyScrum/DailyScrum.md)
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/DailyScrum/DailyScrum.md)
+
+## Ürün Durumu
+
+- **Planning**: % 95
+- **Art**: % 85
+- **Project**: % 5
+- **Coding**: % 0
