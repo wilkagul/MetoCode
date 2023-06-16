@@ -119,4 +119,4 @@ Bu projede en büyük eksikliğimiz projeye 3 kişi olmamızdır, ilk sprint boy
 
 ## Sprint Puanlama
 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum](hhttps://github.com/wilkagul/MetoCod/blob/main/Assets/Spirnt/Spirnt%20-%201/DailyScrum/DailyScrum.md)
