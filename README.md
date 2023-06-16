@@ -67,12 +67,17 @@ Bu amaçlarla birlikte tekrar öğretim vurgusu yaparak, Amacımız eğlenceli �
 
 ## Oyunun Mekaniği
 
-- Core Game Mechanic #1 & Character Move - Temel Oyun Mekaniği
+- **Core Game Mechanic #1 & Character Move - Temel Oyun Mekaniği**
+
   Kullanıcıdan alınan input’lar ile, Mouse input - Touch input karakterin sağa yada sola
   hareket etmesi karar kılınmıştır.
-- Core Game Mechanic #2 & Consol Mechanic - Temel Oyun Mekaniği
+
+- **Core Game Mechanic #2 & Consol Mechanic - Temel Oyun Mekaniği**
+
   Biz buna konsol mekanik ismi adını verdik, Burada her level, tur yada round’da C# algoritma sorusunu oyuncucuya soracağımız bir ekran olacaktır.
-- Core Game Mechanic #3 & Stack Mechanic - Temel Oyun Mekaniği
+
+- **Core Game Mechanic #3 & Stack Mechanic - Temel Oyun Mekaniği**
+
   Burada oyuncudan toplamasını istediğimiz 2 adet oyun objesi vardır. Bunlar Kod Pulları Enemy’ler'dir
 
   - **Kod Pulları** → Bunlar gezegene iniş yapmasını istediğimiz. Sonuçlarımız'dir gezegenin gelişmesine yardımcı olacaklardır.
