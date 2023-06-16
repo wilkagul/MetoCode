@@ -127,3 +127,19 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 - **Art**: % 85
 - **Project**: % 5
 - **Coding**: % 0
+
+## Sprint Board Updated
+
+- **Görselelr Yüklenecek**: % 0
+
+## ScreenShot
+
+- **Görselelr Yüklenecek**: % 0
+
+## Sprint Review
+
+- **Alınan Kararlar**:
+
+## Sprint Retrospective
+
+- **Alınan Kararlar**:
