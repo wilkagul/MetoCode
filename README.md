@@ -140,7 +140,8 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 
 ## Sprint Board Updated
 
-- **Görselelr Yüklenecek**: % 0
+- **Sprint board screenshotları:**
+  ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/SprintBoardUpdated/SprintBoard-1.jpeg)
 
 ## ScreenShot
 
