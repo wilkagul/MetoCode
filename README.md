@@ -6,9 +6,9 @@ Sodhisur
 
 ## Takım Elemanları
 
-- Sümeyye Gökalp : Scrum Master / Product Owner
+- Hamide Sümeyye Gökalp : Scrum Master / Product Owner
 - Gülnur Doğancıoğlu : Developer, Artist
-- Muhammed Uysal : Developer
+- Muhammet Uysal : Developer
 - Dilara Nur Değirmen : Aktif Olmayan Üye
 
 ## Ürün İsmi
