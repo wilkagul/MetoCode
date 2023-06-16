@@ -19,6 +19,10 @@ Sodhisur
 
 [Sodhisur Trello Backlog Board](https://trello.com/invite/b/FSVS9saS/ATTI4f9f2d67348095b6892d2cb86a4773e3DCED8AD4/metocode)
 
+## GAME DESIGN DOCUMENT
+
+[MetoCod Game Design Document](https://github.com/wilkagul/MetoCod/blob/main/Assets/Doc/Game-Design-Document.pdf)
+
 ## Ürün Açıklaması
 
 MetoCod, Eğlenerek öğrenebileceğiniz, Gezegen savunması konseptini benimsemiş, C# Algoritma pratiklerini bolca uygulayacağınız; 2D platform oyunudur. Temel olarak İpad pro’da çizdiğimiz meto adlı karaterimizin gezegeni korumak için
