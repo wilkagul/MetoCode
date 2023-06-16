@@ -106,3 +106,17 @@ başlayan öğrenciler.
 ## Juriye Not
 
 Bu projede en büyük eksikliğimiz projeye 3 kişi olmamızdır, ilk sprint boyunca oyunun fikri ve ekip içerisindeki iletişimi güçlendirmeye çalıştık. Ayrıca oyunumuz orjinal bir fikir olmasından dolayı assetlerin tamamı referans alarak kendimiz çizdik. Tematik bir oyun yapmayı ve bu oyunun gerçekleştirmek için bir çok bizi zorlayıcı etmeni düşünüp planlama ve karar aşamasında iletişimde kaldık.
+
+# Sprint 1
+
+## Sprint Notları
+
+## Sprint Puanlama
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+- **Puan tamamlama mantığı**:
+
+## Sprint Puanlama
+
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
