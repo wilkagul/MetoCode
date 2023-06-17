@@ -53,7 +53,7 @@ kötücül düşmanlarla savaşmasını, Ayrıca Yazılım dünyayayı güzelle�
 - Meto adlı karakterimizin dost olan codo yaratıklarına izin vererek, Gezegenimizin gelişmesine yardım edilmesi sağlamak.
 - Codo yaratıklarımızın içinde ise, C# algoritma sorularının çıktı sonuçları yer aldığını için her doğru cevap bizlerin gezegenin gelişmesine katkı sağlamaya ve amacımıza ulaşmaya gayret ettirecektir.
 
-Bu oyunu oynayan kişilerce oyuna baktığımızda oyunun temelde 2 amacı vardır,
+Bu oyunu oynayan kişilerce oyuna baktığımızda oyunun temelde 2 amacı vardır, Selamlar...
 
 - Meto ile düşmanları engelle
 - Meto ile dostların(code) güvenle gezegene inmelerineizin ver.
