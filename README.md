@@ -118,7 +118,7 @@ Bu sprint her üyenin alışık olmadığını düzenin kurgulanması ve oyunumu
 - **Sprint içinde tamamlanması tahmin edilen puan**: Projeyi 3 parçalı bir halkaya benzetirsek, herbir Sprintin tamamlanması sonucunda 360 puan almayı hedeflemekteyiz.
 - 1.  Sprint halkasında hedeflenen toplam puan= 110 puan.
 - 2.  Sprint halkasında hedeflenen toplam puan= 120 puan.
-- 3.  Sprint halkasında hedeflenen toplam puan= 140 puan.
+- 3.  Sprint halkasında hedeflenen toplam puan= 130 puan.
       Böylece halkanın tüm parçaları birleşir; proje görünür ve işlevsel hale gelir.
 
 - **Puan tamamlama mantığı**: Readme dosyası temelde 2 adımdan oluşmaktadır.
@@ -129,7 +129,7 @@ Bu sprint her üyenin alışık olmadığını düzenin kurgulanması ve oyunumu
 
 ## Daily Scrum
 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/DailyScrum/DailyScrum.md)
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/DailyScrum/_chat.txt)
 
 ## Ürün Durumu
 
