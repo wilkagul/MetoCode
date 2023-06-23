@@ -26,7 +26,7 @@ Sodhisur
 ## Ürün Açıklaması
 
 MetoCod, eğlenerek öğrenebileceğiniz, gezegen savunması konseptini benimsemiş, C# Algoritma pratiklerini bolca uygulayacağınız; 2D platform oyunudur. Temel olarak İpad pro’da çizdiğimiz Meto adlı karaterimizin gezegeni korumak için
-kötücül düşmanlarla savaşmasını, Ayrıca "Yazılım dünyayayı güzelleştirir.” montosuyla çıktığımız bu yolda, C# algoritma sorularının sonuçlarını gezegenimize ulaştırılmasını sağlayarak, C# öğrenme yolculuğuna katkı sağlamasını amaçladığımız bir oyun türüdür. Tematik bir gezegende özel olarak hazırladığımızı karakterin, "Kod yaz dünyayı geliştir." sloganıyla çıktığımız bu yolda, disiplinler arası presipleri birleştirip, oyunlaştırıp, basitce hikayeleştirip, bir amaca göre hem eğlendirip hemde öğrettiğimiz bir mobil oyun projesidir.
+kötücül düşmanlarla savaşmasını, ayrıca "Yazılım dünyayayı güzelleştirir.” montosuyla çıktığımız bu yolda, C# algoritma sorularının sonuçlarını gezegenimize ulaştırılmasını sağlayarak, C# öğrenme yolculuğuna katkı sağlamasını amaçladığımız bir oyun türüdür. Tematik bir gezegende özel olarak hazırladığımızı karakterin, "Kod yaz dünyayı geliştir!" sloganıyla çıktığımız bu yolda, disiplinler arası presipleri birleştirip, oyunlaştırıp, basitce hikayeleştirip, bir amaca göre hem eğlendirip hem de öğrettiğimiz bir mobil oyun projesidir.
 
 - **Oyunun birincil fonksiyonu**: C# programlama dilinde pratikler yaptırarak, Player'ın hızlı algoritmik soruların sonuçlarını
   hızlıca çözüp bu oyunlaştırma projesinde hedefe ulaşması hedeflenmektedir.
@@ -43,56 +43,57 @@ kötücül düşmanlarla savaşmasını, Ayrıca "Yazılım dünyayayı güzelle
 - Educational Game
 - Code Challenge
 - Code Learning
-- Gamifation
+- Gamification
 
 ## Oyunun Amacı
 
 - Meto adlı karakterimizin gezegenini savunmasına yardım etmek.
-- Meto adlı karakterimizi yöneterek, ölümcül düşmanları gezegenimize zarar vermesini önlemek
-- Konsol ekranında çıkan, C# algoritma sorularını çıktılarını çözmek
-- Meto adlı karakterimizin dost olan codo yaratıklarına izin vererek, Gezegenimizin gelişmesine yardım edilmesi sağlamak.
+- Meto adlı karakterimizi yöneterek, ölümcül düşmanları gezegenimize zarar vermesini önlemek.
+- Konsol ekranında çıkan, C# algoritma sorularını çıktılarını çözmek.
+- Meto adlı karakterimizin dost olan Codo yaratıklarına izin vererek, gezegenimizin gelişmesine yardım edilmesi sağlamak.
 - Codo yaratıklarımızın içinde ise, C# algoritma sorularının çıktı sonuçları yer aldığını için her doğru cevap bizlerin gezegenin gelişmesine katkı sağlamaya ve amacımıza ulaşmaya gayret ettirecektir.
 
-Bu oyunu oynayan kişilerce oyuna baktığımızda oyunun temelde 2 amacı vardır, Selamlar...
+Bu oyunu oynayan kişilerce oyuna baktığımızda oyunun temelde 2 amacı vardır;
 
-- Meto ile düşmanları engelle
-- Meto ile dostların(code) güvenle gezegene inmelerineizin ver.
-- Code'ler ise, içlerinde sorulmuş olan algoritmaların çıktılarını tutan kasalardır.
+- Meto ile düşmanları engelle,
+- Meto ile dostların(Code) güvenle gezegene inmelerineizin ver.
 
-Bu amaçlarla birlikte tekrar öğretim vurgusu yaparak, Amacımız eğlenceli şekilde algoritma sorularını oyunculara çözdürmektir. Diğer oyun için elementler bir oyunu oyun yapan oyunlaştırma unsurlarıdır. Bizim burada oyun amacımız eğlenerek öğretmektir.
+Code'ler , içlerinde sorulmuş olan algoritmaların çıktılarını tutan kasalardır.
+
+Bu amaçlarla birlikte tekrar öğretim vurgusu yaparak, amacımız eğlenceli şekilde algoritma sorularını oyunculara çözdürmektir. Diğer oyun için elementler bir oyunu oyun yapan oyunlaştırma unsurlarıdır. Bizim burada oyun amacımız eğlenerek öğretmektir.
 
 ## Oyunun Açıklaması
 
-“MetoCod” oyununda yönettiğimiz tek karakter, Meto adlı karakter’dir, Bu karakter genelde yatay yönde hareketini gerçekleştirmektedir, Amacı kötü düşmanları engellemek, Dost varlıklara ise gezegene iniş yapmasını sağlamaktır. Dost varlıklar daha önce bahsettiğimiz gibi, algoritma sorularının sonuçları olucaktır. Bu oyun 2D retro uzay savaşları oyunlarından esinlenilmiştir. Tematik olarak gezegen savunması seçmemizin sebebi yaşayabileceğimiz tek dünya olması ve o dünyayı yazılım ile güzelleştirmek isteme sebebi içindir. Bu sebeple stilize gezegenimizi meto karakteriyle düşmanlardan korumak görevlerimizin arasındadır. Meto’nun kimin dost kimin düşman olduğunu biz oyunlar yardım etmemiz gerekmektedir. Bu sebeple oyun UX içerisinde bir konsol ekranında basit algoritma sorularını göstereceğimiz alanlar bulunmaktadır. Oyuncu oyun ekranında 2 yeride sürekli kontrol etmesi gerekmektedir. Birincisi soruların olduğu kısımlar, İkincisi ise, kötücül düşmanları gezegenden uzak tutmaya çalışmak. Oyunun çizimleri, sanatsal yaklaşımı, müzikleri ve ses efektleri, atmosferi ve oyuncunun duygusal deneyimini güçlendirmek için özel olarak seçilecektir. Böylece, oyunun oynanışı, sanatı, teması ve sesleri bir araya gelerek, oyuncuların kendilerini oyun dünyasında tamamen kaybetmelerine ve öğrenme konsept’lerine farklı bir yaklaşım sergileyerek bir deneyim sunacaktır.
+“MetoCod” oyununda yönettiğimiz tek karakter, Meto adlı karakter’dir. Bu karakter genelde yatay yönde hareketini gerçekleştirmektedir. Amacı kötü düşmanları engellemek, dost varlıkların ise gezegene iniş yapmasını sağlamaktır. Dost varlıklar daha önce bahsettiğimiz gibi, algoritma sorularının sonuçları olacaktır. Bu oyunda 2D retro uzay savaşları oyunlarından esinlenilmiştir. Tematik olarak gezegen savunması seçmemizin sebebi yaşayabileceğimiz tek dünya olması ve o dünyayı yazılım ile güzelleştirmek isteme sebebi içindir. Bu sebeple stilize gezegenimizi Meto karakteriyle düşmanlardan korumak görevlerimizin arasındadır. Meto’nun kimin dost kimin düşman olduğunu biz oyunlar yardım etmemiz gerekmektedir. Bu sebeple oyun UX içerisinde bir konsol ekranında basit algoritma sorularını göstereceğimiz alanlar bulunmaktadır. Oyuncu oyun ekranında 2 yeride sürekli kontrol etmesi gerekmektedir. Birincisi soruların olduğu kısımlar, İkincisi ise, kötücül düşmanları gezegenden uzak tutmaya çalışmak. Oyunun çizimleri, sanatsal yaklaşımı, müzikleri ve ses efektleri, atmosferi ve oyuncunun duygusal deneyimini güçlendirmek için özel olarak seçilecektir. Böylece, oyunun oynanışı, sanatı, teması ve sesleri bir araya gelerek, oyuncuların kendilerini oyun dünyasında tamamen kaybetmelerine ve öğrenme konseptlerine farklı bir yaklaşım sergileyerek bir deneyim sunacaktır.
 
 ## Oyunun Mekaniği
 
 - **Core Game Mechanic #1 & Character Move - Temel Oyun Mekaniği**
 
-  Kullanıcıdan alınan input’lar ile, Mouse input - Touch input karakterin sağa yada sola
+  Kullanıcıdan alınan input’lar ile, mouse input - Touch input karakterin sağa yada sola
   hareket etmesi karar kılınmıştır.
 
 - **Core Game Mechanic #2 & Consol Mechanic - Temel Oyun Mekaniği**
 
-  Biz buna konsol mekanik ismi adını verdik, Burada her level, tur yada round’da C# algoritma sorusunu oyuncucuya soracağımız bir ekran olacaktır.
+  Biz buna konsol mekanik ismi adını verdik. Burada her level, tur yada round’da C# algoritma sorusunu oyuncucuya soracağımız bir ekran olacaktır.
 
 - **Core Game Mechanic #3 & Stack Mechanic - Temel Oyun Mekaniği**
 
-  Burada oyuncudan toplamasını istediğimiz 2 adet oyun objesi vardır. Bunlar Kod Pulları Enemy’ler'dir
+  Burada oyuncudan toplamasını istediğimiz 2 adet oyun objesi vardır. Bunlar Kod Pulları ve Enemy’lerdir.
 
-  - **Kod Pulları** → Bunlar gezegene iniş yapmasını istediğimiz. Sonuçlarımız'dir gezegenin gelişmesine yardımcı olacaklardır.
-  - **Enemyler** → Bunlar ise gezegene zarar verecek olan enemy’ler, Bunları gezegene iniş yapmasını meto ile engellemeliyiz.
+  - **Kod Pulları** → Bunlar gezegene iniş yapmasını istediğimiz sonuçlarımızdir. Gezegenin gelişmesine yardımcı olacaklardır.
+  - **Enemyler** → Bunlar ise gezegene zarar verecek olan Enemy’ler. Bunların gezegene iniş yapmasını Meto ile engellemeliyiz.
 
 ## Oyunun Platform
 
-- **Mobile platformlarında** ve android ve ios marketler’de listelenmesi hedeflenmiştir.
+- **Mobile platformlarında**, Android ve Ios marketler’de listelenmesi hedeflenmiştir.
 
 ## Hedef Kitle
 
-Hedef kitle, oyunun türüne ve amacına bağlı olarak belirlenir. Platform oyunları genellikle geniş bir kitleye hitap eder, ancak temanın Eğitsel yazılım ve kodlama ile ilgili olması, oyuncuların daha çok yazılıma meraklı olan kişiler arasından seçilebileceğini gösteriyor. Ayrıca, konsept’te basit algoritma mantığını öğrenmek isteyen herkese hitap etmesi, Erken dönem eğitim gören kişileride kapsadığını
-düşünüyoruz. Bu nedenle, hedef kitle olarak teknoloji’ye ve yazılıma meraklı olan herkes olarak kategorilendirmek istiyoruz.
-Ayrıca aşağıdaki gibi bir liste oluşturup sizlere sunuyoruz. Programlama Öğrencileri: İlk adımlarını atan veya programlama öğrenmeye yeni
-başlayan öğrenciler.
+Hedef kitle, oyunun türüne ve amacına bağlı olarak belirlenir. Platform oyunları genellikle geniş bir kitleye hitap eder. Ancak temanın eğitsel yazılım ve kodlama ile ilgili olması, oyuncuların daha çok yazılıma merakıı olan kişiler arasından seçilebileceğini gösteriyor. Ayrıca, konseptte basit algoritma mantığını öğrenmek isteyen herkese hitap etmesi sebebiyle erken dönem eğitim gören kişileride kapsadığını
+düşünüyoruz. Bu nedenle, hedef kitle olarak teknolojiye ve yazılıma meraklı olan herkes olarak kategorilendirmek istiyoruz.
+Ayrıca aşağıdaki gibi bir liste oluşturup sizlere sunuyoruz. 
+
 
 1. Üniversite Öğrencileri: Bilgisayar bilimi, yazılım mühendisliği veya ilgili alanlarda
    okuyan üniversite öğrencileri.
@@ -102,10 +103,13 @@ başlayan öğrenciler.
    becerilerini geliştirmek isteyen bireyler.
 4. Programlama İlgisi Olanlar: Programlamayı merak eden ve programlama
    dünyasına girmek isteyen herkes.
+5. Programlama Öğrencileri: İlk adımlarını atan veya programlama öğrenmeye yeni
+başlayan öğrenciler.
+   
 
 ## Juriye Not
 
-Bu projede en büyük eksikliğimiz projeye 3 kişi olmamızdır, ilk sprint boyunca oyunun fikri ve ekip içerisindeki iletişimi güçlendirmeye çalıştık. Ayrıca oyunumuz orjinal bir fikir olmasından dolayı assetlerin tamamı referans alarak kendimiz çizdik. Tematik bir oyun yapmayı ve bu oyunun gerçekleştirmek için bir çok bizi zorlayıcı etmeni düşünüp planlama ve karar aşamasında iletişimde kaldık.
+Bu projede en büyük eksikliğimiz projede 3 kişi olmamızdır, ilk sprint boyunca oyunun fikri ve ekip içerisindeki iletişimi güçlendirmeye çalıştık. Ayrıca oyunumuz orjinal bir fikir olmasından dolayı assetlerin tamamı referans alarak kendimiz çizdik. Tematik bir oyun yapmayı ve bu oyunun gerçekleştirmek için birçok bizi zorlayıcı etmeni düşünüp planlama ve karar aşamasında iletişimde kaldık.
 
 # Sprint 1
 
@@ -115,21 +119,21 @@ Bu sprint her üyenin alışık olmadığını düzenin kurgulanması ve oyunumu
 
 ## Sprint Puanlama
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: Projeyi 3 parçalı bir halkaya benzetirsek, herbir Sprintin tamamlanması sonucunda 360 puan almayı hedeflemekteyiz.
+- **Sprint içinde tamamlanması tahmin edilen puan**: Projeyi 3 parçalı bir halkaya benzetirsek, her bir Sprintin tamamlanması sonucunda 360 puan almayı hedeflemekteyiz.
 - 1.  Sprint halkasında hedeflenen toplam puan= 110 puan.
 - 2.  Sprint halkasında hedeflenen toplam puan= 120 puan.
 - 3.  Sprint halkasında hedeflenen toplam puan= 130 puan.
       Böylece halkanın tüm parçaları birleşir; proje görünür ve işlevsel hale gelir.
 
 - **Puan tamamlama mantığı**: Readme dosyası temelde 2 adımdan oluşmaktadır.
-  - 1. adım: Ürün fikrini listelemek ve belgelemek in içeriğini oluşturan maddeler için; 30 puan,
-  - 2. Adım: 1. Sprint içeriğini oluşturan maddeler için; 30 puan,
-  - 3. Game art; 25 puan,
-  - 4. Geriye kalan rastgele işler için; 25 puan
+  - 1. Ürün fikrini listelemek ve belgelemek içeriğini oluşturan maddeler için- 30 puan,
+  - 2. 1 . Sprint içeriğini oluşturan maddeler için- 30 puan,
+  - 3. Game art için- 25 puan,
+  - 4. Geriye kalan rastgele işler için- 25 puan.
 
 ## Daily Scrum
 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/DailyScrum/_chat.txt)
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/DailyScrum/_chat.txt)
 
 ## Ürün Durumu
 
@@ -163,3 +167,49 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
   - Görev beyanları net bir zemin üzerine oturtulmuştur.
   - Ekip üyelerinin az olması sebebi ile herkese daha fazla sorumluluk düştüğünden görevler basit iyileştirmelere gidilmiştir.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+
+# Sprint 2
+
+## Sprint Notları
+
+yükleniyor...
+
+## Sprint Puanlama
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: Projenin 2. halkasını bu sprint oluşturmaktadır. Hedeflenen toplam puan 120 dir.
+
+
+## Daily Scrum
+
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum] yükleniyor...
+## Ürün Durumu
+
+- **Planning**: % 95
+- **Art**: % 85
+- **Project**: % ...
+- **Coding**: %  ...
+
+## Sprint Board Updated
+
+- **Sprint board screenshotları:**
+yükleniyor...
+## Oyunun Görselleri, Screenshot
+
+- **Oyundan Bir Görsel:**
+ 
+
+## Sprint Review
+
+- **Alınan Kararlar**:
+  yükleniyor...
+
+## Sprint Retrospective
+
+- **Alınan Kararlar**
+  yükleniyor...
+## Product Backlog URL
+  yükleniyor...
+
+
+  
