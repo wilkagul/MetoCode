@@ -6,8 +6,8 @@ Sodhisur
 
 ## Takım Elemanları
 
-- Hamide Sümeyye Gökalp : Scrum Master / Product Owner, Developer
-- Gülnur Doğancıoğlu : Developer, Artist
+- Hamide Sümeyye Gökalp : Scrum Master / Product Owner / Developer
+- Gülnur Doğancıoğlu : Developer / Artist
 - Muhammet Uysal : Developer
 - Dilara Nur Değirmen : Aktif Olmayan Üye
 
@@ -25,13 +25,13 @@ Sodhisur
 
 ## Ürün Açıklaması
 
-MetoCod, Eğlenerek öğrenebileceğiniz, Gezegen savunması konseptini benimsemiş, C# Algoritma pratiklerini bolca uygulayacağınız; 2D platform oyunudur. Temel olarak İpad pro’da çizdiğimiz meto adlı karaterimizin gezegeni korumak için
-kötücül düşmanlarla savaşmasını, Ayrıca Yazılım dünyayayı güzelleştirir” montosuyla çıktığımız bu yolda, C# algoritma sorularının sonuçlarını gezegenimize ulaştırılmasını sağlayarak, C# öğrenme yolculuğuna katkı sağlamasını amaçladığımız bir oyun türüdür. Tematik bir gezegende özel olarak hazırladığımızı karakterin, "Kod yaz dünyayı geliştir" sloganıyla çıktığımız bu yolda, disiplinler arası presipleri birleştirip, oyunlaştırıp, basitce hikayeleştirip, bir amaca göre hem eğlendirip hemde öğrettiğimiz bir mobil oyun projesidir.
+MetoCod, eğlenerek öğrenebileceğiniz, gezegen savunması konseptini benimsemiş, C# Algoritma pratiklerini bolca uygulayacağınız; 2D platform oyunudur. Temel olarak İpad pro’da çizdiğimiz Meto adlı karaterimizin gezegeni korumak için
+kötücül düşmanlarla savaşmasını, Ayrıca "Yazılım dünyayayı güzelleştirir.” montosuyla çıktığımız bu yolda, C# algoritma sorularının sonuçlarını gezegenimize ulaştırılmasını sağlayarak, C# öğrenme yolculuğuna katkı sağlamasını amaçladığımız bir oyun türüdür. Tematik bir gezegende özel olarak hazırladığımızı karakterin, "Kod yaz dünyayı geliştir." sloganıyla çıktığımız bu yolda, disiplinler arası presipleri birleştirip, oyunlaştırıp, basitce hikayeleştirip, bir amaca göre hem eğlendirip hemde öğrettiğimiz bir mobil oyun projesidir.
 
-- **Oyunun birincil fonksiyonu**: C# programlama dilinde pratikler yaptırarak, Player'ın Hızlı algoritik soruların, Sonuçlarını
-  hızlıca çözüp bu oyunlaştırma projesinde hedefe ulaşmasını hedeflenmektedir.
+- **Oyunun birincil fonksiyonu**: C# programlama dilinde pratikler yaptırarak, Player'ın hızlı algoritmik soruların sonuçlarını
+  hızlıca çözüp bu oyunlaştırma projesinde hedefe ulaşması hedeflenmektedir.
 
-- **Oyunun İkincil fonksiyonu**: Gezegen savunması konseptinin benimsemiş bu oyun, Düşmanları gezegene zarar vermesini önlemek, Yaşanabilir bir gezegeni korumak ve kollamak, Gerektiğinde geliştirmek bu oyunun ikincil fonksiyonları arasındadır.
+- **Oyunun İkincil fonksiyonu**: Gezegen savunması konseptinin benimsemiş bu oyun, düşmanları gezegene zarar vermesini önlemek, yaşanabilir bir gezegeni korumak ve kollamak, gerektiğinde geliştirmek bu oyunun ikincil fonksiyonları arasındadır.
 
 ## Oyunun Türü
 
