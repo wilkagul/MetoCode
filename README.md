@@ -92,8 +92,7 @@ Bu amaçlarla birlikte tekrar öğretim vurgusu yaparak, amacımız eğlenceli �
 
 Hedef kitle, oyunun türüne ve amacına bağlı olarak belirlenir. Platform oyunları genellikle geniş bir kitleye hitap eder. Ancak temanın eğitsel yazılım ve kodlama ile ilgili olması, oyuncuların daha çok yazılıma merakıı olan kişiler arasından seçilebileceğini gösteriyor. Ayrıca, konseptte basit algoritma mantığını öğrenmek isteyen herkese hitap etmesi sebebiyle erken dönem eğitim gören kişileride kapsadığını
 düşünüyoruz. Bu nedenle, hedef kitle olarak teknolojiye ve yazılıma meraklı olan herkes olarak kategorilendirmek istiyoruz.
-Ayrıca aşağıdaki gibi bir liste oluşturup sizlere sunuyoruz. 
-
+Ayrıca aşağıdaki gibi bir liste oluşturup sizlere sunuyoruz.
 
 1. Üniversite Öğrencileri: Bilgisayar bilimi, yazılım mühendisliği veya ilgili alanlarda
    okuyan üniversite öğrencileri.
@@ -104,8 +103,7 @@ Ayrıca aşağıdaki gibi bir liste oluşturup sizlere sunuyoruz.
 4. Programlama İlgisi Olanlar: Programlamayı merak eden ve programlama
    dünyasına girmek isteyen herkes.
 5. Programlama Öğrencileri: İlk adımlarını atan veya programlama öğrenmeye yeni
-başlayan öğrenciler.
-   
+   başlayan öğrenciler.
 
 ## Juriye Not
 
@@ -168,7 +166,6 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
   - Ekip üyelerinin az olması sebebi ile herkese daha fazla sorumluluk düştüğünden görevler basit iyileştirmelere gidilmiştir.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 
-
 # Sprint 2
 
 ## Sprint Notları
@@ -179,25 +176,25 @@ yükleniyor...
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Projenin 2. halkasını bu sprint oluşturmaktadır. Hedeflenen toplam puan 120 dir.
 
-
 ## Daily Scrum
 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum] yükleniyor...
+
 ## Ürün Durumu
 
-- **Planning**: % 95
-- **Art**: % 85
-- **Project**: % ...
-- **Coding**: %  ...
+- **Planning**: % 100
+- **Art**: % 100
+- **Project**: % 15
+- **Coding**: % 5
 
 ## Sprint Board Updated
 
 - **Sprint board screenshotları:**
-yükleniyor...
+  yükleniyor...
+
 ## Oyunun Görselleri, Screenshot
 
 - **Oyundan Bir Görsel:**
- 
 
 ## Sprint Review
 
@@ -208,8 +205,7 @@ yükleniyor...
 
 - **Alınan Kararlar**
   yükleniyor...
+
 ## Product Backlog URL
-  yükleniyor...
 
-
-  
+yükleniyor...
