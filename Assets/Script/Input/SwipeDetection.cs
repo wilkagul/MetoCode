@@ -5,19 +5,12 @@ using UnityEngine;
 public class SwipeDetection : MonoBehaviour
 {
     // Source -> https://youtu.be/XUx_QlJpd0M
-    [SerializeField] private float mininumDistance = .2f;
-    [SerializeField] private float maximumTime = 1f;
-    [SerializeField, Range(0f, 1f)] private float directionThreshold = .9f;
-    [SerializeField] private GameObject trail;
 
     private InputManager inputManager;
 
-    private Vector2 startPosition;
-    private float startTime;
-    private Vector2 endPosition;
-    private float endTime;
-
-    private Coroutine coroutine;
+    [SerializeField] private float speed = 10.0f;
+    private bool hasStartedMoving = false;
+    private Vector3 targetPosition;
 
     private void Awake()
     {
@@ -26,77 +19,32 @@ public class SwipeDetection : MonoBehaviour
 
     private void OnEnable()
     {
-        inputManager.OnStartTouch += SwipeStart;
-        inputManager.OnEndTouch += SwipeEnd;
+        inputManager.OnPressTouch += Test;
     }
 
     private void OnDisable()
     {
-        inputManager.OnStartTouch -= SwipeStart;
-        inputManager.OnEndTouch -= SwipeEnd;
+        inputManager.OnPressTouch -= Test;
     }
 
-    private void SwipeStart(Vector2 position, float time)
+    private void Update()
     {
-        startPosition = position;
-        startTime = time;
-        trail.SetActive(true);
-        trail.transform.position = position;
-        coroutine = StartCoroutine(Trail());
-    }
-
-    private IEnumerator Trail()
-    {
-        while (true)
+        Debug.Log(hasStartedMoving);
+        if (hasStartedMoving)
         {
-            trail.transform.position = inputManager.PrimaryPosition();
-            yield return null;
+            transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
+
+            if (Vector3.Distance(transform.position, targetPosition) < 0.15f)
+            {
+                hasStartedMoving = false;
+            }
         }
     }
 
-    private void SwipeEnd(Vector2 position, float time)
+    private void Test(Vector2 position)
     {
-        trail.SetActive(false);
-        StopCoroutine(coroutine);
-        endPosition = position;
-        endTime = time;
-        DetectSwipe();
-    }
-
-    private void DetectSwipe()
-    {
-        if (Vector3.Distance(startPosition, endPosition) >= mininumDistance && (endTime - startTime) <= maximumTime)
-        {
-            Debug.Log("Swipe Detected");
-            Debug.DrawLine(startPosition, endPosition, Color.red, 5f);
-
-            Vector3 direction = endPosition - startPosition;
-            Vector2 direction2D = new Vector2(direction.x, direction.y).normalized;
-            SwipeDirection(direction2D);
-        }
-    }
-
-    private void SwipeDirection(Vector2 direction)
-    {
-        if (Vector2.Dot(Vector2.up, direction) > directionThreshold)
-        {
-            Debug.Log("Swipe Up");
-        }
-        else if (Vector2.Dot(Vector2.down, direction) > directionThreshold)
-        {
-            Debug.Log("Swipe Down");
-        }
-        else if (Vector2.Dot(Vector2.left, direction) > directionThreshold)
-        {
-            Debug.Log("Swipe Left");
-        }
-        else if (Vector2.Dot(Vector2.right, direction) > directionThreshold)
-        {
-            Debug.Log("Swipe Right");
-        }
-        else
-        {
-            Debug.Log("Swipe Error");
-        }
+        Debug.Log(position);
+        targetPosition = new Vector3(position.x, transform.position.y, transform.position.z);
+        hasStartedMoving = true;
     }
 }

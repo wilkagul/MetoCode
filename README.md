@@ -156,7 +156,7 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
   - Oyun genel konsep tasarımları çizilmiştir, Readme dosyasına eklenmiştir.
   - Oyunun tüm assetleri tarafımızca çizilmiş, Unity içerisine hazır kullanımları beklenmektedir.
   - Bizlere rehber olabilecek bir game design document geliştirilmesi yapılmıştır.
-  - Hiç bir iteraksiyonu olmayan basit düzeyde Unity içerisine oyunun son görünümü ile ilgili çalışmalar yapışmıştır.
+  - Hiç bir iteraksiyonu olmayan basit düzeyde Unity içerisine oyunun son görünümü ile ilgili çalışmalar yapılmıştır.
 
 ## Sprint Retrospective
 
@@ -170,15 +170,19 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 
 ## Sprint Notları
 
-yükleniyor...
+Bu sprint bir oyun geliştirme süreçlerini nasıl yapmamız gerektiği ve ilk defa teknik problemler ile karşılaşıp kod yazmaya başladık. Şu aşamda touch sisteminin entegre edip, karakterimizi ona göre hareket ettirebiliyoruz. Ayrıca araya bayram tatilinin girmesi tüm süreci ve planlamamızı biraz olsun aksattı diyebiliriz. Ama ekip olarak bunu uygun görüp sprint backlog düzenlemesini ona göre yapmıştık. Sprint-2'de aldığımız tüm işlemleri tamamladık, ve bizleri sprint 3'de daha zorlu teknik konular bekliyor.
 
 ## Sprint Puanlama
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Projenin 2. halkasını bu sprint oluşturmaktadır. Hedeflenen toplam puan 120 dir.
 
+- **Puan tamamlama mantığı**: Bu sprint puanlama mantığı temelde 2 adımdan oluşmaktadır.
+  - 1. Her Sprint Sonu Beklentiler - 20 puan,
+  - 2. Proje geliştirme süreçleri - 100 puan, şeklindedir.
+
 ## Daily Scrum
 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [DailyScrum] yükleniyor...
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-2/DailyScrum/_chat.txt)
 
 ## Ürün Durumu
 
@@ -190,22 +194,32 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 ## Sprint Board Updated
 
 - **Sprint board screenshotları:**
-  yükleniyor...
+  ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-2/SprintBoardUpdated/SprintBoard-2.jpeg)
 
 ## Oyunun Görselleri, Screenshot
 
 - **Oyundan Bir Görsel:**
+  ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-2/Game/Sprint-2.gif)
 
 ## Sprint Review
 
 - **Alınan Kararlar**:
-  yükleniyor...
+  - Unity C# kodlama'ya başladık, Bu süreçte online kaynakları aktif bir şekilde kullandık.
+  - Ekip üyelerimiz azlığından dolayı, ve bazı teknik bilgilerin eksikliği sebebi ile çağımızın en büyük velinimetlerinden olan chat gpt'yle aşır neşir olduk. Eksik kaldığımız yerlerde ondan destek almaya çalıştık.
+  - Bu süreçte eksik kaldığımız noktaları çıkardık. eğer bunları tanım olarak bilir isek, ona göre araştırmalarımızı yaparız diye düşünüyoruz.
+    - Touch Input System.
+    - Object Pooling
+    - Scriptable Object ile Level Sistemi
+    - Puanlama Sistemi
+  - Yukarı maddlerden ilk 2 tanesi başarı ile youtube dersleri ile tamamladık. Diğer konularıda hızlıca öğrenip uygulamak istiyoruz.
 
 ## Sprint Retrospective
 
 - **Alınan Kararlar**
-  yükleniyor...
+  - Artık kaybedecek zaman ve enerji kalmadığı için eskisinden daha çok ekip ruhuna ve azmine ihtiyacımız olduğuna karar kılınmıştır.
+  - Bayram, tatil, deniz ekstra tüm işleri erteleyip, Hem öğrenme hemde proje geliştirme süreçlerinde son sprint çok aktif olma kararı alınmıştır.
+  - Bu süreçte görev beyanları net olarak trello üzerindne ifade edilmiştir.
 
 ## Product Backlog URL
 
-yükleniyor...
+[Sodhisur Trello Backlog Board](https://trello.com/invite/b/FSVS9saS/ATTI4f9f2d67348095b6892d2cb86a4773e3DCED8AD4/metocode)
