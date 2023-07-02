@@ -3,6 +3,7 @@ using UnityEngine;
 public class Singleton<T> : MonoBehaviour
     where T : Component
 {
+    // Source -> https://gist.github.com/mstevenson/4325117
     private static T _instance;
     public static T Instance
     {

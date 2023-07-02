@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 [DefaultExecutionOrder(-1)]
 public class InputManager : Singleton<InputManager>
 {
+    // Source -> https://youtu.be/XUx_QlJpd0M
     public delegate void StartTouch(Vector2 position, float time);
     public event StartTouch OnStartTouch;
     public delegate void EndTouch(Vector2 position, float time);
