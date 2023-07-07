@@ -10,6 +10,7 @@ public class EnemySpawner : MonoBehaviour
     public float minSpawnX = -2.5f;
     public float maxSpawnX = 2.5f;
     public Transform parentTransform; // Parent GameObject'in referansı
+    public int maxEnemyCount = 50;
 
     private List<GameObject> enemyPool = new List<GameObject>();
 
@@ -24,16 +25,30 @@ public class EnemySpawner : MonoBehaviour
         {
             yield return new WaitForSeconds(spawnInterval);
 
-            GameObject enemy = GetPooledEnemy();
-            if (enemy != null)
+            // Pooldeki aktif enemy sayısını kontrol et
+            int activeEnemyCount = 0;
+            foreach (GameObject enemy in enemyPool)
             {
-                float randomX = Random.Range(minSpawnX, maxSpawnX);
-                enemy.transform.position = new Vector3(randomX, spawnHeight, 0f);
+                if (enemy.activeInHierarchy)
+                {
+                    activeEnemyCount++;
+                }
+            }
 
-                // Parent GameObject'i ayarla
-                enemy.transform.SetParent(parentTransform);
+            // Pooldeki aktif enemy sayısı maxEnemyCount'i geçmiyorsa yeni enemy oluştur
+            if (activeEnemyCount < maxEnemyCount)
+            {
+                GameObject enemy = GetPooledEnemy();
+                if (enemy != null)
+                {
+                    float randomX = Random.Range(minSpawnX, maxSpawnX);
+                    enemy.transform.position = new Vector3(randomX, spawnHeight, 0f);
 
-                enemy.SetActive(true);
+                    // Parent GameObject'i ayarla
+                    enemy.transform.SetParent(parentTransform);
+
+                    enemy.SetActive(true);
+                }
             }
         }
     }
@@ -50,6 +65,7 @@ public class EnemySpawner : MonoBehaviour
 
         // Eğer aktif bir enemy yoksa yeni bir enemy oluştur
         GameObject newEnemy = Instantiate(enemyPrefab);
+        newEnemy.SetActive(false); // Başlangıçta false olarak ayarla
         enemyPool.Add(newEnemy);
         return newEnemy;
     }
