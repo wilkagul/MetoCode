@@ -134,21 +134,15 @@ Bu sprint ekip üyelerinin alışık olmadığı düzenin kurgulanması ve oyunu
 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/DailyScrum/_chat.txt)
 
-## Ürün Durumu
-
-- **Planning**: % 95
-- **Art**:      % 85
-- **Project**:  % 5
-- **Coding**:   % 0
 
 ## Sprint Board Updated
 
 - **Sprint board screenshotları:**
   ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/SprintBoardUpdated/SprintBoard-1.jpeg)
 
-## Oyunun Görselleri, Screenshot
-
-- **Oyundan Bir Görsel:**
+## Ürün Durumu 
+Ekran Görüntüleri
+- **Oyundan Bir Görsel:** 
   ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-1/Game/Sprint-1.jpeg)
 
 ## Sprint Review
@@ -185,20 +179,14 @@ Bu sprint, bir oyun geliştirme sürecini nasıl yönetmemiz gerektiğini ve ilk
 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-2/DailyScrum/_chat.txt)
 
-## Ürün Durumu
-
-- **Planning**: % 100
-- **Art**:      % 100
-- **Project**:  % 15
-- **Coding**:   % 5
-
 ## Sprint Board Updated
 
 - **Sprint board screenshotları:**
   ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-2/SprintBoardUpdated/SprintBoard-2.jpeg)
 
-## Oyunun Görselleri, Screenshot
 
+## Ürün Durumu
+Ekran Görüntüleri
 - **Oyundan Bir Görsel:**
   ![Backlog 1](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-2/Game/Sprint-2.gif)
 
@@ -230,48 +218,38 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 
 ## Sprint Notları
 
-yükleniyor...
+Oyun tamamlandı, sesler entegre edildi, oyunun videosu hazırlandı.
 
 ## Sprint Puanlama
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Projenin 3. halkasını bu sprint oluşturmaktadır. Hedeflenen toplam puan 130 dur.
 
-- **Puan tamamlama mantığı**: yükleniyor...
-  
-
 ## Daily Scrum
 
 Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats] 
 
-yükleniyor...
-
-## Ürün Durumu
-
-- **Planning**: % 100
-- **Art**:      % 100
-- **Project**:  % ...
-- **Coding**:   % ...
 
 ## Sprint Board Updated
 
 - **Sprint board screenshotları:**
  yükleniyor...
 
-## Oyunun Görselleri, Screenshot
-
+ ## Ürün Durumu
+Ekran Görüntüleri
 - **Oyundan Bir Görsel:**
   yükleniyor...
 
 ## Sprint Review
 
 - **Alınan Kararlar**:
+Scriptable obje ile level sistemi yazılmış, level içerikleri belirlenip algoritmaları kodlanmış, level içerikleri Code karakterimize entegre edilmiş, Sound manager hazırlanmış ve sesler entegre edilmiştir. Ekip üyelerinin yetersizliği sebebiyle bazı işlerin askıya alınmasına karar verilmiştir. Sprint Review katılımcıları: Hamide Sümeyye Gökalp, Gülnur Doğancıoğlu, Muhammet Uysal.
 
-yükleniyor...
 ## Sprint Retrospective
 
 - **Alınan Kararlar**
   
-yükleniyor...
+Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
 ## Product Backlog URL
 yükleniyor...
 
