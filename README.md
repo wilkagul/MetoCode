@@ -226,18 +226,20 @@ Oyun tamamlandı, sesler entegre edildi, oyunun videosu hazırlandı.
 
 ## Daily Scrum
 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats] 
+Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/DailyScrum/_chat.txt)
 
 
 ## Sprint Board Updated
 
 - **Sprint board screenshotları:**
- yükleniyor...
+
+![Backlog 3](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/SprintBoardUpdated/SprintBoard-3.jpeg)
 
  ## Ürün Durumu
 Ekran Görüntüleri
 - **Oyundan Bir Görsel:**
-  yükleniyor...
+
+![Backlog 3](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/Game/Sprint-3.gif)
 
 ## Sprint Review
 
@@ -251,5 +253,6 @@ Scriptable obje ile level sistemi yazılmış, level içerikleri belirlenip algo
 Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 ## Product Backlog URL
-yükleniyor...
+
+[Sodhisur Trello Backlog Board](https://trello.com/invite/b/FSVS9saS/ATTI4f9f2d67348095b6892d2cb86a4773e3DCED8AD4/metocode)
 

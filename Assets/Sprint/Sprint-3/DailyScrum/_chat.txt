@@ -1,0 +1,1215 @@
+[8.06.2023 11:34:13] U-134 Bootcamp : ‎Mesajlar ve aramalar uçtan uca şifrelidir. WhatsApp da dahil olmak üzere bu sohbetin dışında bulunan hiç kimse mesaj ve aramalarınızı okuyamaz ve dinleyemez.
+[8.06.2023 11:34:13] U-134 Bootcamp : ‎“U-134 Bootcamp ” grubunu oluşturdunuz
+[8.06.2023 11:35:16] Sümeyye Gökalp: Arkadaşlar tekrar merhaba, birkaç sorum olacak o sebeple beklemeden farklı bir grup kurdum
+[8.06.2023 11:36:22] Sümeyye Gökalp: Hüseyin gruptan ayrıldıktan sonra Selçuk la görüştüm, pek ümidim yok ama 1 kişi eksik olduğumuzu akademiye iletti. Açıkta kalan biri varsa bizim ekibe dahil edecek
+[8.06.2023 11:37:53] Sümeyye Gökalp: Birde bu scrum sürecini yönetmek için trello kullacağız, sizleride dahil edebilmem için mail adreslerinizi paylaşır mısınız?
+[8.06.2023 11:39:51] Sümeyye Gökalp: Son olarak Githup hesabını nasıl yapalım, birinin Githup hesabı üzerinden mi süreci yürütelim yoksa ekip adına yeni bir hesap mı açalım? Ortak karara göre aksiyon alacağım dönüşlerinizi bekliyorum
+[8.06.2023 11:46:32] ~ Gülnur: wilkagul@gmail.com
+[8.06.2023 11:46:49] ~ Gülnur: Yeni bir hesap acalim
+[8.06.2023 12:00:50] ~ Gülnur: Sumeyye ben yeni hesap fedim ama atil hoca bunun hakkında ne demişti hatirliyo musun
+[8.06.2023 12:00:57] ~ Gülnur: Çünkü ayrı bir mail adresi gerekir onun icin
+[8.06.2023 12:01:15] ~ Gülnur: Senin githubindsn mesela proje açarız yukleriz olmadi
+[8.06.2023 12:03:03] Sümeyye Gökalp: Atıl hoca tercihi bize bıraktı, o yüzden biz nasıl istersek o yolu takip edelim 😊
+[8.06.2023 12:03:24] Sümeyye Gökalp: Eğer herkes hem fikir olursa yeni bir mail alır oradan açarız hesabı
+‎[8.06.2023 12:04:06] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[8.06.2023 12:04:29] Sümeyye Gökalp: Sadece böyle bir handikapı var
+[8.06.2023 12:04:37] Sümeyye Gökalp: Onun dışında sorun olmaz
+[8.06.2023 12:04:47] ~ Gülnur: Tamam o zaman yeni hesap acalim
+[8.06.2023 12:05:56] Sümeyye Gökalp: Peki mail adresini nasıl alalım, takım numara üzerinden mi yoksa örneğin artha@gmail…. Gibi mi geçen seni birincilerinin ismiydi sanırım
+[8.06.2023 12:06:45] ~ Gülnur: Numara olsun takim adı henüz belli değil projede daha yok ortada bence numara olsun
+[8.06.2023 12:08:43] Sümeyye Gökalp: Tamamdır, diğer arkadaşlarda fikrini yazsın akşam ona göre ayarlıyım hepsini
+[8.06.2023 12:09:36] Sümeyye Gökalp: Sende proje fikrini dokümante edip gönderebilir misin
+[8.06.2023 12:23:56] ~ Gülnur: Ben bugün çizim üzerine yoğunlaşıcam hazir bir dokuman bulup doldurabilirsin zaten dün proje fikrini anlattık anladığın kadarıyla yaz sonrasında düzeltmeler yaparız
+[8.06.2023 12:26:28] Sümeyye Gökalp: Tamam ben bir şeyler karalıyım olmadı paslaşırız yine, fikir toplantının son kısmında geçtiği için yerine oturmayan taşlar var. İhtiyaç duyduğumda destek atarsın
+[8.06.2023 12:29:11] ~ Gülnur: Teknik tarafını Muhammed yapacağı için onun github hesabı açması daha mantıklı kodlaması o tarafta çünkü
+[8.06.2023 12:29:56] ~ Gülnur: Şimdilik hesap kalsın yarın konusucaz zaten
+[8.06.2023 12:30:23] ~ Gülnur: Proje fikri açıklaması vs var onu sen doldur sumeyye bende çizim üzerinde yogunlasirim yarın konuşuruz yine
+[8.06.2023 12:35:34] Sümeyye Gökalp: 👍🏻
+[8.06.2023 21:53:10] Sümeyye Gökalp: https://trello.com/invite/takimu134/ATTIc8c6385cc5ead8ae4098347ac2c9b7b5BEF47958 arkadaşlar buradan katılmayı dener misiniz
+[8.06.2023 22:15:44] Dilara Nur Bootcamp: ‎Dilara Nur Bootcamp ayrıldı
+[8.06.2023 22:16:43] Sümeyye Gökalp: ben aklıma gelen görevleri yazdım, Logic Lineup panosuna tıkladığınızda size atanmış görevleri görebilirsiniz
+[8.06.2023 22:34:28] ~ Gülnur: Eline saglik sumeyye 😊
+[9.06.2023 10:56:41] Sümeyye Gökalp: Günaydın arkadaşlar, nasılsınız her şey yolunda mı? 
+Kaldık 3 kişi. 🙃 Selçuk a durumu ilettim, büyük bir ihtimalle böyle devam edeceğiz. O yüzden hepimize daha fazla iş düşüyor. Altından kalkarız evelallah
+[9.06.2023 10:57:48] Sümeyye Gökalp: Akşam ki toplantı saatini netleştirememiştik, @905493240032 sen biraz daha erken olsa demiştin. Kaç gibi müsait olursun ona göre ayarlayalım
+[9.06.2023 11:06:48] Sümeyye Gökalp: Bir de @905493240032 githup oluşturup linkini paylaşır mısın, formu doldurayım biran önce
+[9.06.2023 11:57:43] ~ Gülnur: Dilara neden yok
+[9.06.2023 11:58:52] Sümeyye Gökalp: Bir şey söylemeden çıkmış gruplardan, peşine düşüp sormadım
+[9.06.2023 11:59:07] ~ Gülnur: Ben gün içinde ararim bi
+[9.06.2023 11:59:38] Sümeyye Gökalp: Selçuk ta baktı Slack te adı yok dedi
+[9.06.2023 11:59:45] Sümeyye Gökalp: Olur
+[9.06.2023 12:02:44] ~ Gülnur: Tamamdır
+[9.06.2023 16:15:59] Muhammet Uysal Bootcamp: https://github.com/bootcamp-u134
+‎[9.06.2023 16:16:09] Muhammet Uysal Bootcamp: ‎görüntü dahil edilmedi
+‎[9.06.2023 16:16:10] Muhammet Uysal Bootcamp: ‎görüntü dahil edilmedi
+‎[9.06.2023 16:16:10] Muhammet Uysal Bootcamp: ‎görüntü dahil edilmedi
+[9.06.2023 16:16:33] Muhammet Uysal Bootcamp: Github ve mail bilgileri
+[9.06.2023 18:20:11] Sümeyye Gökalp: Eline sağlık Muhammet
+[9.06.2023 18:20:28] Sümeyye Gökalp: Formu doldurdum arkadaşlar
+[9.06.2023 18:53:17] Muhammet Uysal Bootcamp: Senin de eline sağlık abla
+[9.06.2023 22:03:31] Sümeyye Gökalp: Arkadaşlar selam toplantı yapıyor muyuz
+[9.06.2023 22:08:14] ~ Gülnur: Merhaba ben serum yiyorum şimdi biraz halsizdim tasarımını az çok yaptim kaydetmistim size atiyotum isterseniz yarın yapalım isterseniz toplantiyi yapın siz kusura bakmayın tekrardan
+[9.06.2023 22:09:07] Sümeyye Gökalp: Ya öyle mi çok geçmiş olsun canım
+[9.06.2023 22:09:27] Sümeyye Gökalp: Biran önce toparlarsın inşallah
+‎[9.06.2023 22:09:39] ~ Gülnur: ‎görüntü dahil edilmedi
+[9.06.2023 22:09:48] ~ Gülnur: İnşallah teşekkür ederim
+[9.06.2023 22:10:14] Sümeyye Gökalp: Ellerine sağlık hastası uğraşmışsın o kadar🌸
+[9.06.2023 22:10:22] ~ Gülnur: Alt kısmı da olucak bunun yine istediğiniz bir şey olursa yazın tam bitmedi yine konusurz
+[9.06.2023 22:10:27] ~ Gülnur: Çok sagol
+[9.06.2023 22:10:30] Muhammet Uysal Bootcamp: Gecmis olsun
+[9.06.2023 22:10:44] ~ Gülnur: Tesekkur ederim
+[9.06.2023 22:10:59] Sümeyye Gökalp: Bende proje fikrini yazdım henüz geliştirme aşamasında olduğumuz için bazı maddeleri dolduramadım
+[9.06.2023 22:11:28] Sümeyye Gökalp: Ben de sizinle paylaşayım, müsait vaktinizde inceleyin isterseniz. Toplantıyı da yarın erteleyelim. Hatta yarın toparlayamam dersen pazarda yapabiliriz
+‎[9.06.2023 22:11:51] Sümeyye Gökalp: BOOTCAMP 2023.docx ‎belge dahil edilmedi
+[9.06.2023 22:12:09] ~ Gülnur: Yarın yapalım o zaman kesin
+[9.06.2023 22:12:40] Sümeyye Gökalp: Tamam inşallah kaç gibi müsait olursunuz
+[9.06.2023 22:12:59] ~ Gülnur: İncelicem gece yarın detaylı konuşuruz
+[9.06.2023 22:13:04] ~ Gülnur: Sabah daha iyi olur 10 gibi
+[9.06.2023 22:13:19] Sümeyye Gökalp: Bana da uyar
+[9.06.2023 22:13:38] Sümeyye Gökalp: @905493240032 senin için peki ?
+[9.06.2023 22:15:07] Sümeyye Gökalp: Bu arada oyunun ismine takılmayın, ben öylesine yazdım. Hatta fikir eşinin olduğu için onunda önerisi varsa onu da yapabiliriz
+[9.06.2023 22:15:48] Muhammet Uysal Bootcamp: Bana da uyar sabah daha iyi olur hatta
+[9.06.2023 22:16:28] ~ Gülnur: Tamamdır yarın sabah görüşürüz tekrar kusura bakmayın
+[9.06.2023 22:17:04] Sümeyye Gökalp: Öyle düşünme hastalığın kusuru olmaz, bir an önce toparlamaya bak. Tekrar geçmiş olsun. Cümleten iyi gecelere
+[9.06.2023 22:18:19] Muhammet Uysal Bootcamp: İyi geceler tekrardan geçmiş olsun
+[9.06.2023 22:19:10] ~ Gülnur: 🤗
+[10.06.2023 09:17:09] Sümeyye Gökalp: Günaydın arkadaşlar, toplantıya son 45 dk. Müsaitlik durumunuz nedir? 10 da yapıyor muyuz?
+[10.06.2023 09:50:51] ~ Gülnur: Günaydın evet yapıyoruz
+[10.06.2023 10:01:02] ~ Gülnur: Geldim ben
+[10.06.2023 10:02:25] Sümeyye Gökalp: Muhammed ?
+[10.06.2023 10:03:28] ~ Gülnur: Sumeyye sen gel ben sana biraz bahsedeyim çok duramicam tam iyilesemedim Muhammed geldiğinde anlatırsın sen
+[10.06.2023 10:03:57] Sümeyye Gökalp: Tamam geliyorum
+[10.06.2023 10:26:49] Muhammet Uysal Bootcamp: .
+[10.06.2023 17:11:16] Sümeyye Gökalp: Arkadaşlar selam, akşam saat 20.30 da Selçuk la toplantım var, iletmemi istediğiniz sorular varsa toplantı öncesi iletirseniz sevirim
+[10.06.2023 20:45:10] Sümeyye Gökalp: Tekrar merhaba, toplantıyı pazartesiye erteledik, Selçuk en kısa zamanda githup linkini kesinleştirip formu güncellememizi hatırlattı, o yüzden Gülnur müsait olduğun bir zamanda githup hesabını kontrol edip bana dönüş yapabilir misin?
+[10.06.2023 20:46:08] ~ Gülnur: Tabiki bugün bakıp yarın haber veririm
+[10.06.2023 20:46:24] Sümeyye Gökalp: Tamamdır
+[10.06.2023 22:42:41] ~ Gülnur: Herkese selamlar, uzun bir mesaj olucak lütfen dikaktle okuyunuz. Github hesabında tahmin ettiğim gibi problem çıktı. O sebeple kendi github hesabımı kullanma kararı aldım. Bunun sebebi şu şekilde bir bilgiyarda birden fazla github hesabı bağlasak bile benim kişisel projelerimden fedakarlık etmek durumunda kalıcam. Aslında çözümüde var ama açıkcası uğraşmak istemedim. Biraz gereksiz vakit kaybı, ve bu proje sornasında kendi kişisel hesabımı kendi projelerimde kullanmaya devam ediceğim için, her defasında birden fazla githu hesabı arasında geçiş yapmam gerekecek,  O sebeple yarın gün içerisinde wilkagul github hesabından projeyi oluşturup, sizleri collabrate edicem. bu sebeple kendi github hesabını kullanmak istiyorum izniniz ile. 
+
+https://github.com/wilkagul -> adresinden ulaşabilirsiniz. 
+
+O zaman tasklara ve sprint planlamasına geçelim.
+
+1 - ///
+-> Öncelikle ilk taskımız fikir oluşturma taskıdır. Aslında üzerine düşündüğümüz bir fikrimiz var ve bunu detaylandırmamız gerekiyor. Bu sebeple yüksek bir story point verebiliriz. Bu task 3'ümüzüde atanması gerekmektedır. Zaten trello hesabımız oluşturulmuş ekstra yük olmaması adına orayada yazıcam tüm taskları. Bunu başlangıç için ben yapıcam sonrasında sizlere devredicem zaten. Burda gereksiz detay yazmak istemiyorum.
+
+2 - ///
+-> işimiz trellodaki board'larımızı ingilizce olarak hazırlamak istiyorum. Çok gereksiz bir detay ama yinede gerçek bir proje deneyimi elde etmek için bu doğru bir yaklaşım olucaktır. Bu sebeple board'larımız todo - doing - done şeklinde güncelleyeceğim. Bunlar yapılacaklar, yapılıyor, ve yapıldı şeklinde tercüme edebiliriz.
+
+Ayrıca ekip ile ilgili tüm bilgiler yeşil etikete, benim işlerim mavi etikette, Sümeyyenin işleri sarı renkte, Muhammed ise mor etikette olucaktır. Ayrıca muhammed acil trellorya girmeni rica edicem.
+
+3 - ///
+-> Bir sonraki işimiz ise, unity'nin kurulmasını ve yüklenmesi olucaktır. Unity sürümü olarak, 2021.3.3f1 kurulumunu yapmanızı rica edicem. Kod editörü olarak'da vscode olması önemle rica olunur. Bunların taskları iş olarak açtım. Kurulum yaptğımızda, lütfen kartları done çekiniz.
+
+4- ///
+-> Dördüncü işimiz, projenin github'da oluşturulması olucak, Bu iş bende. Task'ı açıldı.
+
+5- ///
+-> Unityleri kurucaz, kişisel github hesaplarımız yok ise oluşturucaz, var isede bana bir şekilde ulaştırıp sizleri projeye dahil edicem. Burda iki aşamalı bir iş var, önce sizlerin github hesaba giriş yapıp sonra'da o mailleri bana iletmenizi isticem. Ayrıca bu bilgiyi github mail bilgisini trello'daki kartlarada ekleyelim. Bu bir ekip kartıdır o sebeple etiketi yeşildir.
+
+6- ///
+-> Oyun Projemizin detaylandırılması Kartı, Zaten bunun üzerine konuştuk bir fikir sahibiyiz, Fikrimiz belli ama yinede buraya ufak bir bilgi yazıcam, Öncelikle desktop için nasıl yapabiliriz çıkabilirmiyiz diye çok düşündüm ama malesef bu oyun mobilde olmalı, Basit eğlenceli ve hereksin erişebilir olmasını istiyoruz. Bu sebeple mobilde karar kılmamız çok doğru bir yaklaşım olucaktır. Yine bunu konuşalım ama, Diğer özelliklere gelince kart içerisinde daha detaylı yazıcam. Ama kısaca eğitsel bir oyun yapıyoruz, Öyle soru sormalı çoktan seçmeli değil içerisinde öğrenimi amaçlayan ve bildiğimiz oyun mekanikleri olan bir oyundan bahsediyorum. Kullanıcıdan alacağımız tek input ile, oyunumuzu dizay edicez, hem öğreticez hemde eğlendiricez. Peki ne öğreticez, C# şu anda c# öğreticez, eğlenerek algoritmaları çözmeye çalışaklar, tüm detayları kart bilgisine en kısa sürede ekleyip done çekicem.
+
+6- ///
+-> altıncı ve yeni kartımız konsep tasarımları ile ilgili olucak, Bu kart tamamen bende, oyunun konsep tasarımlarını kurgusunu anlatıcam bir eskiz hazırlıcam, Eskiz hazırlandıktan sonra sizlere sunum yapıcam, Sunum yapıcam için ise ekstra olarak bir toplantı daha yapmamız gerekecek, bu hafta içerisinde en kısa sürede konsep tasarımları biter bitmez bu toplantıyı gerçekleştirmemiz gerekiyor. Şu anda tarih olaak pazartesi diyeceğim. kartı açmak için ama onu güncelleyeceğiz
+
+7- ///
+-> Konsep tasarım toplantısı kartı, Bu kartın içerisine'de konspe tasarımızı inceleyip üzerinde konuşup, Alacağımız kararları kartın içerisine yazıcaz. Bu iş sümeyye sende.
+
+8- ///
+-> Proje dökümanı yada game desing document, artık ufaktan game desing documantımızıa yazmaya başlıcaz, bir nevi proje dökümanı diyebiliriz. Bu kart sümeyye sende, Bunun kartı şu anda var, ekstra olarak ben de sana örnek 2 tane game design document şablonu göndericem, Konsep tasarımı toplantısından sonra zaten herşey kafanda yerleşir ve sende o şablonlara bakarak, Chat gpt'den yararlanarak ve kendi cümlelerin ile documanı yazmaya başlayabilirisiz. bu proje sürecinde devam edicek bir yaşam döngüsüne sahip olacağı için acelye etmeye gerek yok.
+
+9- ///
+-> Konsep tasarım toplantısından sonra, Çizimlere başıyoruz olucz bu iş yaklaşık 1 hafta sürücektir, yani sprint-1'in yarısında bu işe efor sarfedicez,  1 adet background çizilecek, Bir adet text konsol alanı çizilecek, 1 adet toplayıcı barı çizilecek, bir adet neon circle çizilecek, 4 adet enemy çizilecek, UI ve text'ler ile beraber 10'dan fazla asset çizilmesi gerekcek hepsini tek bir kart içerisine check list şeklinde kartın içerisinde bilgilerine ulaşıyor olucaz.
+
+Şimdi benim sizlere sormama gereken 4 adet soru var,
+X - Documantasyon, game design doc işi var. ->bu sümmeyyede zaten ilk hafta boş geçicek ben çizimden sende attığım örneklere baksan ufak yazsan yeterli bence
+X - Şimdilik benim olaya başladığım için beni beklediğiniz için proje yönetimi ve task açma işini ben yaptım. Artık bu iş'desümeyye sende, Bu formata dikkat edebilirsek süper olur, Bir iş mi yapılcak bir şey mi yazılcak ufak da olsa hemen kartını açıyoruz. 
+2 - Her spirnt sonu readme sayfasına, sprint işleyişi yazılıyor sanırsam, Bunu kim yapmak ister. Eğer bu işi muhammed yada sümeyye kim yapıyor ise şöyle bir task'a ihityacımız var, daha önceki yapılmış projerlerden ufak bir bilgi yapalım ve, bu işi yapacak kişi konsep toplantısından bu süreci nasıl yapıcağını açıklasın, eğer desteğe ihtiyacı olursa da yardımcı olurum.
+3 - Bu ilk hafta ben çizim yaparken, sonrasında yazılım tarafına geçeceğim için ekstra unnuttuğumuz bir şey kalmamsı adına sesleri düşünelim şimdiden muhammed bunu senden rica etmek istyorum konsep tasarım toplantısında zaten detayları konuşur kartı'da açarız, Yani pazartesiden sonra sen oyun muziklerini bulmaya çalışman süper olur, Oyunumuz hazır olunca, hemen projemize entegre ederiz.
+
+Çok uzun bir mesaj oldu, okuduğunuz için teşekkür ederim. Pazartesiye kadar olan tüm kartlar açıldı şimdi izninizle onlara yoğunlaşacağım. Sorunuz olursa yazmaktan çekinmeyin geceye kadar bilgisayar başındayım.
+[10.06.2023 23:07:12] Sümeyye Gökalp: Ellerine sağlık Gülnur, yazdıklarını okudum, müsait olduğumda tek tek inceleyip aksiyon alacağım. Yine haberleşiriz. İyi geceler
+[12.06.2023 14:01:32] ~ Gülnur: Takım bilgileri formu doldurdunmu sümeyye?
+[12.06.2023 14:01:36] ~ Gülnur: bugün son tarih
+[12.06.2023 14:01:58] Sümeyye Gökalp: Evet trelloda done ye çekmiştim
+[12.06.2023 14:02:25] ~ Gülnur: tamamdır
+[12.06.2023 14:02:49] Sümeyye Gökalp: Githup linkini seninki olarak güncelleyin 2. kez doldurduk hatta
+[12.06.2023 14:04:01] ~ Gülnur: Tamamdır bizim doldurmamiz gereken bir form yok demi simdilik
+[12.06.2023 14:04:32] Sümeyye Gökalp: Yok
+[12.06.2023 14:04:54] ~ Gülnur: Tamamdir
+[12.06.2023 16:50:19] Sümeyye Gökalp: Gülnur selam, bugüne konsept tasarım toplantısı vardı, projede ne durumdayız, ben bugün pek müsait değilim ama bir yarım saat ayırabilirim
+[12.06.2023 17:03:00] ~ Gülnur: Size birazdan konsep göndericem, toplantıyı senin istediğin zamanda yapabiliriz,yarın falan sorun olmaz mı
+[12.06.2023 17:03:14] ~ Gülnur: Olmaz benim için
+‎[12.06.2023 17:05:36] ~ Gülnur: ‎görüntü dahil edilmedi
+[12.06.2023 17:11:19] ~ Gülnur: 1- Kodları göstereceğimiz konsol ekranımız var.
+2- Sonuçlarını göstereceğimiz zone alanlarımız, yani dairelerimiz var.
+3- En aşağıda gezegen savunması yapacağımız ufak bir dairemiz var. Bu gezegen formunda olucak.
+4- Bazı enemylerimiz - Düşmanlarımız var bunlar karakter şeklinde,
+5- Bazı yıldız ve kare şeklinde oyun elemenlerimiz var.
+
+Şu anda sadece fikir olması için bir tanesi boyadım. 
+
+Genel konsep tasarımımız bu şekilde, Bunun oyun kurgusunu konsep toplantısında anlatıcam zaten.
+[12.06.2023 17:12:05] ~ Gülnur: Şu an burda olmayan birde basit uzay arka planı çizip boyacağım.
+[12.06.2023 17:12:08] ~ Gülnur: şimdilik benden bu kadar.
+[12.06.2023 17:13:44] ~ Gülnur: Sorunuz olur ise, cevaplayabilirim. Ben şimdi keman'a kursuna gidicem, Akşam 10 gibi evde olurum herkes müsait olur ise bügün olmaz ise hepimizin müsait olduğu bir zaman diliminde toplanabiliriz.
+[12.06.2023 17:17:19] Sümeyye Gökalp: Yarın benim için daha iyi olur, o zaman yarına çekelim toplantıyı.
+[12.06.2023 17:18:17] Sümeyye Gökalp: Çizimler çok sevimli eline sağlık😊
+[12.06.2023 17:18:34] Sümeyye Gökalp: Tamamdır toplantıda konuşalım o zaman
+[12.06.2023 17:19:10] ~ Gülnur: Çok teşekkür ederim.
+[12.06.2023 17:19:29] ~ Gülnur: Benim için okey :)
+‎[13.06.2023 01:13:13] ~ Gülnur: ‎video dahil edilmedi
+[13.06.2023 08:05:58] Sümeyye Gökalp: 😃Sarı favorim 💛
+[13.06.2023 10:17:41] Sümeyye Gökalp: Arkadaşlar selam, ben bugün 15’ten sonra müsait olacağım sizin müsaitlik durumunuz nedir ona göre toplantı planlıyalım
+[13.06.2023 12:17:15] ~ Gülnur: Yine 6-9.30'a kadar Keman dersim var. Akşam 10 gibi benim için çok iyi olur 🙏
+[13.06.2023 14:25:36] Sümeyye Gökalp: Tamamdır ben de uygunum, akşam görüşürüz o zaman
+[13.06.2023 18:47:36] Sümeyye Gökalp: Gülnur selam githup hesabın public değil mi?
+[13.06.2023 18:47:47] Sümeyye Gökalp: Değilse public e çeker misin acil
+[13.06.2023 21:27:47] ~ Gülnur: Public durumda
+[13.06.2023 21:28:01] ~ Gülnur: Kusura bakma İnternetim yoktu
+[13.06.2023 21:28:22] Sümeyye Gökalp: Tamamdır 👍🏻
+[13.06.2023 21:29:41] Sümeyye Gökalp: 22 de toplantı yapıyor muyuz?
+[13.06.2023 21:31:19] ~ Gülnur: 22.30 alsak problem olur mu
+[13.06.2023 21:31:51] Sümeyye Gökalp: Olmaz ama biraz kısa tutarız olur mu?
+[13.06.2023 21:32:06] ~ Gülnur: Olur tabiki
+[13.06.2023 22:30:58] ~ Gülnur: geldim
+[13.06.2023 22:36:16] ~ Gülnur: nerdediniz
+[13.06.2023 22:36:31] Sümeyye Gökalp: 1 dk
+[13.06.2023 22:37:16] Sümeyye Gökalp: Geldim
+[13.06.2023 22:45:54] Sümeyye Gökalp: Başladık Muhammet
+[13.06.2023 23:05:14] Sümeyye Gökalp: https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example
+[13.06.2023 23:16:29] ~ Gülnur: ‎Bu mesaj silindi.
+[13.06.2023 23:17:09] ~ Gülnur: 1 - Trello Spirnt Spirnt düzenlenicek
+2 - Documan'lar atılacak
+3- Github proje oluşturularack.
+4- Github'da collabrate
+5- Story point'ler verilecek,
+6- Game ve Trello Ekran görüntüleri
+7 - Asset çizimleri devam edilecek.
+8- Readme sayfası
+9- Ses'ler
+[13.06.2023 23:17:53] ~ Gülnur: X - Oyun fikri kararlaştırıldı, ve genel oyun konsepti hakkında el sıkışmılmıştır.
+[14.06.2023 02:38:57] Muhammet Uysal Bootcamp: Kusura bakmayın bir kaç gündür başıma çok saçma şeyler geldi o yüzden neredeyse hiç aktif olamadım bir kaç güne toparlayacagim tekrardan çok özür dilerim
+[14.06.2023 07:35:31] Sümeyye Gökalp: Geçmiş olsun Muhammet
+[14.06.2023 08:04:07] ~ Gülnur: Sorun değil Muhammed geçmiş olsun is saatlerini tam bilmedigimiz için toplantı ayarladık ama diğer toplantıyı sana uygun yapaim herkes olsun toplantida
+[14.06.2023 13:30:46] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+‎[14.06.2023 13:45:03] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[14.06.2023 16:22:54] Muhammet Uysal Bootcamp: Teşekkür ederim ben toplantılar için sabah saatlerinde uygun oluyorum saat 4 e kadar falan
+[14.06.2023 16:30:40] Sümeyye Gökalp: Tamamdır,yarın için konuşacak olursak ben yarın 14 ten sonra müsaitim, daha yeni yaptık cuma toplanalım derseniz ona göre tekrar programıma bakıyım, Gülnur ?
+[14.06.2023 16:58:05] Sümeyye Gökalp: 1.	*Ürün Fikri ve Rolleri Belgelemek*
+1.1	Takım İsmi
+1.2	Takım Rolleri
+1.3	Oyun ile ilgili Bilgiler
+1.3.1	Oyunun Adı
+1.3.2	Oyun Türü
+1.3.3	Oyunun Amacı
+1.3.4	Oyunun Açıklaması
+1.3.5	Oyunun Özellikleri
+1.3.6	Oyun Mekaniği
+1.3.7	Oyun Platformu
+1.3.8	Hedef Kitle
+1.3.9	Jüriye Not
+1.4	Product Backlog
+2.	*Her Sprint Sonunda Beklentiler*
+2.1	Sprint Notları
+2.2	Tahmin edilen tamamlanacak Puan
+2.3	Tahmin Mantığı
+2.4	Daily Scrum
+2.5	Ürün Durumu
+2.6	Sprint Board Updates
+2.7	Screenshot
+2.8	Sprint Review
+2.9	Sprint Retrospective
+[14.06.2023 17:00:06] Sümeyye Gökalp: Selamlar, ürün fikri ve rolleri yalnızca ilk sprint ile teslim edilecek, madde 2 nin içeriği ise tüm sprinteler de beklenenler, atladığımız bir şey olmaması için sizinle de paylaşıyorum
+[14.06.2023 17:01:20] Sümeyye Gökalp: Gülnur oyunun içeriği ile ilgili benimde atladığım şeyler olabilir kontrol edip dönersen memnun olurum
+[14.06.2023 17:06:35] Sümeyye Gökalp: Son olarak toplantıda da konuştuğumuz gibi Selçuk madde 1 in içeriğinin değişebileceğini, madde 2 nin içeriğini değiştirme gibi bir şansımızın olmadığını belirtti.
+[14.06.2023 17:22:02] ~ Gülnur: Sümeyye selamlar, tam olarak kaldırıp verdiğim sürümü kullanmalısın.
+[14.06.2023 17:22:09] ~ Gülnur: Bügün mesai yoğun olduğu için geç yazıyorum kısurua bakma.
+[14.06.2023 17:22:44] Sümeyye Gökalp: Sıkıntı yok :)
+‎[14.06.2023 17:24:20] ~ Gülnur: ‎görüntü dahil edilmedi
+[14.06.2023 17:24:34] ~ Gülnur: vscode için istediğim bir şey yok sümeyye.
+[14.06.2023 17:24:50] ~ Gülnur: buna birazdan dönücem.
+[14.06.2023 17:25:38] Sümeyye Gökalp: Tamamdır
+‎[14.06.2023 21:47:31] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[14.06.2023 21:48:03] ~ Gülnur: GDD_SmyrnaRun_v1.0.pdf • ‎6 sayfa ‎belge dahil edilmedi
+[14.06.2023 21:48:38] ~ Gülnur: şu anda 2 tane bitmiş game design doc attım buraya.
+‎[14.06.2023 21:48:40] ~ Gülnur: Revival Game Design Document.pdf • ‎14 sayfa ‎belge dahil edilmedi
+[14.06.2023 21:54:49] ~ Gülnur: Oyunun içeriği ile ilgili sana nasıl yardımcı olabilir burda demek istediğini anlamdım, Biraz daha ayrıntılı oyunun içeriğini açıklamamı yada yazmamı istermisin ?
+[14.06.2023 21:55:01] ~ Gülnur: Birde burda hangi maddeler yazabilirmisin rica etsem.
+[14.06.2023 22:04:13] ~ Gülnur: @905079666091 Sümmeyye bir ara trello ya bakmanı rica edicem.
+[14.06.2023 22:04:31] ~ Gülnur: Ben düzenliyorum ama, konunun anlaşılması karışıklılık olmaması adına.
+[14.06.2023 22:04:39] ~ Gülnur: sende bir bakabilirsen iyi olur.
+[14.06.2023 22:07:28] Sümeyye Gökalp: Çok iyi
+[14.06.2023 22:09:15] Sümeyye Gökalp: Bunu attığın dokümanları inceledikten sonra cevaplamak isterim, :) bulamazsam cevabı  tekrar soracağım
+[14.06.2023 22:10:50] ~ Gülnur: Oyun ismine karar verelim mi ?
+[14.06.2023 22:10:58] ~ Gülnur: ona göre github projesini oluşturayım hemen.
+[14.06.2023 22:12:10] Sümeyye Gökalp: 1. De yazan yani “ürün fikri ve rolleri belgelemek” başlığı altındaki tüm yazanlar değişebiliyormuş- fakat değişmemesi olabildiğince aynı kalması tavsiye ediliyor-, 2. yani her sprint sonunda beklentiler, başlıkları değiştirilemiyor
+[14.06.2023 22:12:33] Sümeyye Gökalp: Verelim
+[14.06.2023 22:13:29] ~ Gülnur: 1- Logic Lineup
+
+2- Codeup
+
+3- PlanetCo
+
+4- AlgoPlanet
+
+5- SharpWar
+
+card içerisinede yazdım.
+[14.06.2023 22:13:30] Sümeyye Gökalp: Tamamdır inceliyim, eline sağlık
+[14.06.2023 22:14:13] Sümeyye Gökalp: Müsaitseniz Discord dan da konuşabiliriz
+[14.06.2023 22:14:25] Sümeyye Gökalp: Böyle yaz yaz zor oluyor 😅
+[14.06.2023 22:14:38] ~ Gülnur: tamamdır.
+[14.06.2023 22:14:51] ~ Gülnur: ama pc'nin çok şarjı yok
+[14.06.2023 22:14:56] ~ Gülnur: hemen sana anlatıp kaçabilirim ?
+[14.06.2023 22:15:09] ~ Gülnur: birde dışardayız bügün.
+[14.06.2023 22:15:17] ~ Gülnur: hemen 15 dakikada anlatırım sana.
+[14.06.2023 22:15:22] Sümeyye Gökalp: Muhammet ?
+[14.06.2023 22:15:42] Sümeyye Gökalp: Hmmm zor olacaksa sonra ki toplantıda konuşalım
+[14.06.2023 22:15:55] ~ Gülnur: olur.
+[14.06.2023 22:16:00] ~ Gülnur: ama ben yinede anlatayım.
+‎[14.06.2023 22:16:32] ~ Gülnur: ‎görüntü dahil edilmedi
+[14.06.2023 22:16:40] ~ Gülnur: toplamda 9 tane tablomuz var.
+[14.06.2023 22:16:52] ~ Gülnur: Sprint -1 backlog yapılması gereken işler.
+‎[14.06.2023 22:17:07] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[14.06.2023 22:17:18] ~ Gülnur: ‎görüntü dahil edilmedi
+[14.06.2023 22:17:21] ~ Gülnur: kart başlıkları.
+‎[14.06.2023 22:17:42] ~ Gülnur: ‎görüntü dahil edilmedi
+[14.06.2023 22:17:52] Sümeyye Gökalp: Bunu oylayalım herkes fikrini yazsın sen ona göre aç olmadı, proje senin fikrin olduğu için senin oyun x2 etkili o yüzden önce sen fikrini yaz 😊
+[14.06.2023 22:17:54] ~ Gülnur: backlog'da olan kartları tamamladıkça dona çekiypruz.
+[14.06.2023 22:18:13] ~ Gülnur: ben şu anda boş ta kaldığım için takım rollerini hızlıca yazdım.
+‎[14.06.2023 22:18:27] ~ Gülnur: ‎görüntü dahil edilmedi
+[14.06.2023 22:18:39] ~ Gülnur: ben kolay olanlarını yazabileceğim kafamın iyi olduklarını yazıyor olucam.
+[14.06.2023 22:18:47] ~ Gülnur: eğer şu anda buna karar verirsekde
+[14.06.2023 22:18:53] ~ Gülnur: github projesini açıcam ve sizleri eklicem.
+[14.06.2023 22:19:05] Sümeyye Gökalp: Gülnur 1 dk çok hızlı gidiyoruz 😂
+[14.06.2023 22:19:14] ~ Gülnur: şurdaki tüm maddeler üst baslık ve alt başlıkları trello kart olarak açıldı.
+[14.06.2023 22:19:30] ~ Gülnur: sadece içleri dolacak işte :D
+[14.06.2023 22:19:52] Sümeyye Gökalp: Şöyle yapalım Discord a gelebilirsen gel o zaman oradan devam edelim
+[14.06.2023 22:20:18] Sümeyye Gökalp: Zaten bunlar benim görevlerim Muhammet e ben açıklıyım gereken yerleri
+[14.06.2023 22:21:12] ~ Gülnur: pc sarj sorun yapacak sanırsam ya.
+‎[14.06.2023 22:22:31] Sümeyye Gökalp: ‎ses dahil edilmedi
+[14.06.2023 22:22:44] ~ Gülnur: geldik geldik
+[14.06.2023 22:23:29] Sümeyye Gökalp: Anlamadım toplanıyor muyuz dağılıyor muyuz
+[14.06.2023 22:23:38] ~ Gülnur: toplanalım beni bir daha zor bulursunuz D:
+[14.06.2023 22:23:53] ~ Gülnur: edleron kullanıcı adım discord şu an farklı bilgisayarda oldığum için
+[14.06.2023 22:23:57] ~ Gülnur: ekleyebilirmisin ?
+[14.06.2023 22:24:44] Sümeyye Gökalp: 1 dk
+[14.06.2023 22:25:43] Sümeyye Gökalp: https://discord.gg/DawGNw8P
+[14.06.2023 22:25:52] Sümeyye Gökalp: gelebilir misin
+[14.06.2023 22:26:10] ~ Gülnur: hayır gelmim.
+[14.06.2023 22:26:16] ~ Gülnur: özelden, istek atabilirmisin.
+[14.06.2023 22:26:35] ~ Gülnur: o grup özel grup baskasının dc'sini eklemeyelim şimdş oraya
+[14.06.2023 22:26:52] Sümeyye Gökalp: tamam
+[14.06.2023 22:27:42] ~ Gülnur: https://discord.gg/7PGpAjG3
+[14.06.2023 22:27:49] ~ Gülnur: buraya gelebilrsin ama.
+[14.06.2023 22:38:47] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+[14.06.2023 22:40:50] ~ Gülnur: @905493240032 bana, mail adresini atabilirmisin. müsait olduğunda.
+[14.06.2023 22:43:40] Sümeyye Gökalp: h.sumeyyegokalp@gmail.com
+[14.06.2023 22:51:36] Muhammet Uysal Bootcamp: muysal3202@gmail.com
+[14.06.2023 22:58:27] ~ Gülnur: Projemizin Adı MetoCode, Githup reposu oluşuturuldu ve, Invite'lar maillerinize atıldı kontrol ediniz lütfen.
+[14.06.2023 23:03:49] Sümeyye Gökalp: Bir yeri düzelttim sanırım ilk commitimi attım, hayırlı uğurlu olsun 😂
+[14.06.2023 23:05:47] Sümeyye Gökalp: Umarım bir şeyi bozmadan atmışımdır,… Prokesi yazıyordu onu düzelttim
+[14.06.2023 23:50:57] ~ Gülnur: Hiç sıkıntı yok hayırlı olsun :
+‎[15.06.2023 21:18:31] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[15.06.2023 21:19:01] Sümeyye Gökalp: Öncelikle Muhammet  son toplantıda alınan kararları senin de onayına sunmak istiyorum. 
+Githup projesini Gülnur dün oluşturdu. 1. Sprint için akademinin bizden istediklerini Trello da listeledik. Listenin içerisindeki her maddeyi doldurmak ise benim görevim. Şimdi sana sormak istediğim; 
+1- proje dokümanını githup a sen yükleyebilir misin? (iki gün içerisinde tamamlanacak)
+2-oyun için sesleri bulabilir misin? (Acelesi yok)
+
+Eğer senin için zor olacaksa başka bir şekilde halletmeye çalışalım.
+[15.06.2023 21:19:14] Sümeyye Gökalp: Herhangi bir aksilik olmazsa, pazar günü öğlene kadar proje raporunu tamamlamayı düşünüyorum. Rapor tamamlandıktan sonra son bir kez Selçuk’la istişare etmek için max bu kadar erteleme yapabiliriz.
+[15.06.2023 21:25:22] Sümeyye Gökalp: Söyledigim gibi ben bu akşam doküman elimden geldiğince doldurup bitirmeye çalışacağım. Bitirdikten sonra size yazarım sizde bir kontrol edip onay verirseniz, 2. aşamaya geçebiliriz. 
+
+2. Aşama projenin githup a yüklenmesi
+3. Aşama projenin soru işaretlerinin Selçuk’a iletilmesi, gerekli düzenlemelerin yapılması
+4. Projenin teslim edilmesi
+[15.06.2023 21:28:57] Sümeyye Gökalp: Atladığım bir şey varsa yazarsanız sevinirim
+[15.06.2023 23:24:42] ~ Gülnur: Atladığımız bir şey yok sümeyye, Proje hafta sonu start, verilecek. Projenin soru işaretleri için pazartesini günü görüşme ayarlayabilrilizi.
+
+Projeni teslim edilmesine 4 hafta var. Bu 4 haftada beni yoğun bir süreç bekliyor. Çizimler hemen hemen hazır sayılır. Haftasonu start veririz.
+[15.06.2023 23:35:49] Sümeyye Gökalp: Tamamdır, ben bugün konsept toplantısında konuştuklarımızı not almıştım onları senin gönderdiğin örnek dokümanlara benzer şekilde doldurmaya başladım. Bu arada dünki toplantıda dokümanteyi direkt trello üzerinden yapalım diye konuşmuştuk. Fakat benim için word e doldurmak daha kolay olacak. Nedenin toplantıda açıklayacağım. 
+Word dosyasını en geç yarın burada paylaşmış olurum. İllaki eksiklerim olacaktır 🙃 o sebeple istersen yarın bir toplantı planlayıp üzerinden birlikte geçelim istersen ben bakarım eksikleri tamamlarım diyorsanda ben okeyim. Cumartesi de startı veririz
+[15.06.2023 23:38:35] Sümeyye Gökalp: Proje soru işaretleri için pazartesi saat 10:00 son saat olduğu işin Selçuk a ulaşabileceğimi sanmıyorum maalesef, zaten bizim asistanla toplantı günümüz normalde cumartesi, fakat sağ olsun Selçuk bizim için esnek davranıyor, fakat onu da sıkıştırmak istemiyorum
+[15.06.2023 23:46:50] ~ Gülnur: Tamamdır ben yarın müsaitim yarn toplanırız. Ama dediğim gibi oyuna en erken pazar vesaire başlayabilirim.
+[15.06.2023 23:46:59] ~ Gülnur: Rapor'u world olması vesaire farketmez.
+[15.06.2023 23:47:07] ~ Gülnur: ordakilerini koplamak 2 dklık iş :D
+[15.06.2023 23:50:27] Sümeyye Gökalp: Oyuna hemen başlamamıza gerek yok seni de sıkıştırmak istemiyorum, sadece hani örnek githup paylaşmıştım ya orada ss ler vardı arayüz vb. O tarz ss ler yapabilir miyiz ne dersin?  O da yetişmez dersen ss leri başka bir şekilde dolduracağız yada dolduramadığımızı retro kısmında belirteceğiz
+[15.06.2023 23:50:34] Sümeyye Gökalp: Aynen :)
+[15.06.2023 23:54:01] ~ Gülnur: ben oyunun o kadar uzun süreceğini düşünmüyorum.
+[15.06.2023 23:54:15] ~ Gülnur: ekran görüntüsünü basit bir demosunu ilk hafta alırız.
+[15.06.2023 23:54:22] ~ Gülnur: alamayadabiliriz :D
+[15.06.2023 23:54:26] ~ Gülnur: ama ben alacağımıza inanıyorum.
+[15.06.2023 23:55:31] Sümeyye Gökalp: 😂 umut verici fakat çokta değil
+[15.06.2023 23:56:36] Sümeyye Gökalp: Tamam yapabildiğimiz kadarını yaparız inşallah sıkıntı yok
+[15.06.2023 23:56:45] ~ Gülnur: biter ya.
+[15.06.2023 23:56:50] ~ Gülnur: işte kurban var.
+[15.06.2023 23:56:56] ~ Gülnur: o sıkıntı biraz ya :D
+[15.06.2023 23:57:04] ~ Gülnur: o zaman kadar bitirsek güzel olur.
+[15.06.2023 23:57:17] Sümeyye Gökalp: 3 kişi anca bu kadar olur
+[15.06.2023 23:57:43] ~ Gülnur: :D
+[15.06.2023 23:58:21] Sümeyye Gökalp: Ya sen şimdi çok ileriyi düşünüp gerilme 19 u bi projeyi teslim edelim gerisine bakarız, yoksa hikaye başlamadan bitecek 😅
+[15.06.2023 23:58:59] Sümeyye Gökalp: Yani dökümanteyi kastediyorum ilk spirntte asıl görmek istedikleri fikir 💡
+[15.06.2023 23:59:28] ~ Gülnur: yani sümeyye açıkcası bunlar tırı vırı :D
+[15.06.2023 23:59:31] ~ Gülnur: asıl ürün önemlidir.
+[15.06.2023 23:59:38] ~ Gülnur: ne kadar ürünü protatip haline getiirirsek
+[15.06.2023 23:59:41] ~ Gülnur: güzel olur
+[15.06.2023 23:59:45] ~ Gülnur: aslında gerilmiyorum
+[15.06.2023 23:59:50] ~ Gülnur: sadece iyi planlama yapmam lazım.
+[15.06.2023 23:59:52] ~ Gülnur: odaklanırsamk
+[15.06.2023 23:59:57] ~ Gülnur: gerçekten 1 haftalık işi var.
+[16.06.2023 00:00:12] Sümeyye Gökalp: Tamam e ne diyelim siz bunları istediniz ama biz size fikir değil ürün veriyoruz mu diyelim 😂
+[16.06.2023 00:00:19] ~ Gülnur: :D
+[16.06.2023 00:00:22] ~ Gülnur: o iş sende işte :D
+[16.06.2023 00:00:36] ~ Gülnur: Merak etme ben o tarafta destek olucam.
+[16.06.2023 00:01:03] Sümeyye Gökalp: Tamaaaam şimdi aynı telden konuşmaya başladık 😇
+[16.06.2023 00:04:30] Sümeyye Gökalp: O halde hepimiz topyekun odaklanalım ben doc u hazırladıktan sonra üzerinden geçelim ki gereksiz kapsam kaymalarımız olmasın. Başta sepet dedik sonra gezegen 🪐 savunmasına döndük☺️ he çokta güzel oldu. O yüzden ne yapacağımız netleşsin ki proje için istenenleri vaktinde teslim edebilelim, yoksa düşündükçe benim de aklıma şöyle yapabilir mi acaba diye geliyor fakat kendimi tutup sana yazmıyorum 😂
+[16.06.2023 00:29:41] Sümeyye Gökalp: Yanlış anlama lütfen sadece şunun için söylüyorum, biz aslında 2. Toplantımızda karar verdik diye düşünerek toplantı sonucuna göre bir doc hazırladım sadece puanlama ve eksikleri doldurup projeyi normalde çıkacaktık, kopyala yapıştırla da trello ya geçirecektik. Vakit geniş olsa hiç problem değil fakat şimdi bu adımları tekrar tekrar yapmak benim biraz kafamı karıştırdı ne yazacağımı şaşırdım 🥲
+[16.06.2023 00:30:38] ~ Gülnur: Tamamdır, yarın bakalım o zaman o sürece.
+[16.06.2023 00:30:42] ~ Gülnur: uzun bir toplantı yaparız.
+[16.06.2023 00:30:49] ~ Gülnur: keman'ım var 6'da
+[16.06.2023 00:30:59] ~ Gülnur: ona göre öncesimnde yada sonrasında müsait olur iseniz
+[16.06.2023 00:31:01] ~ Gülnur: buluşalım.
+[16.06.2023 00:31:39] Sümeyye Gökalp: 11.30 uygun mu
+[16.06.2023 00:33:50] ~ Gülnur: uygundur. Muhammed ?
+[16.06.2023 11:33:44] ~ Gülnur: Toplanıyor muyuz
+[16.06.2023 11:34:58] Sümeyye Gökalp: 2 dk ya geliyorum
+[16.06.2023 11:39:05] Sümeyye Gökalp: Geldim
+‎[16.06.2023 11:46:23] Sümeyye Gökalp: BOOTCAMP 2023 (Otomatik Kurtarıldı).docx ‎belge dahil edilmedi
+[16.06.2023 11:49:12] Sümeyye Gökalp: .
+[16.06.2023 11:49:39] ~ Gülnur: aa
+‎[16.06.2023 12:24:38] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[16.06.2023 12:24:54] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[16.06.2023 12:25:17] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 12:29:48] ~ Gülnur: Sümmeyye birde 1, 2, 3, 4, şeklinde mesajlar vardı yapılcaklar ile ilgili onları gönderebilirmisin.
+[16.06.2023 12:30:16] Sümeyye Gökalp: Bu mu?
+[16.06.2023 12:30:40] Sümeyye Gökalp: Bu mu?
+[16.06.2023 12:30:44] ~ Gülnur: Hayır hayır, biriyle konuştum ordan bakarak söylüyorum.
+[16.06.2023 12:30:54] ~ Gülnur: daily scrum falan gibi bir şey geçmişti
+[16.06.2023 12:30:58] ~ Gülnur: bacglog ile ilgili
+[16.06.2023 12:31:13] Sümeyye Gökalp: He tamam 10 dk ya düzenleyip atıyorum
+[16.06.2023 12:31:18] ~ Gülnur: tmmdır.
+[16.06.2023 12:37:52] Sümeyye Gökalp: …Burada en önemli şey göstereceğimiz kriterler olacak. O kriterleri göz önünde bulundurarak kendi ürününüzü geliştirebilirsiniz. Githup kullanımı zorunlu sadece kod açısından değil scrum yönetimimizi de githup üzerinden kontrol edeceğiz. Orada baya bir form doldurmamız gerekecek. Hazır bir proje kullanmak dışardan bir şey satın almak dışardan profesyonel bir destek almak direkt diskalifiye sebebi. 
+Githup içerisinde her sprintte de yapacağınız bazı formlar olacak. Ama onlardan önce takım olarak bir araya geldiğinizde ürünü ilk karar verdiğinizde sadece bir defa ya mahsus githup repomuzun readmesime koyacağımız bir belge var. - burada atıl hocanın bahsettiği belge ürün ismi ile başlayan kısım-Sadece ürünü bulduğunuz gibi bunu yapmanızı isticez, bunların hepsini biz kontrol edeceğiz. 
+
+Sprintleri nasıl kontrol edecekler?
+Scrum process
+İlk önce ürününüzün vizyonu neyse onu çıkartırsınız 
+User stories: kullanıcı hikayeleri dediğimiz aslında bizim kullanıcıların ürünümüzden ne beklediğini hikayeleştirmek gibi düşünebilirsin ürünümüzün taşıması gereken fiçirları, haritalandırdığımız ve yazıya dökdüğümüz bir formdur. Bunu biz product backloga dönüştüreceğiz. Burada yapılacak listesi gibi ortaya çıkar. Her Sprint yapılacakları alırız ve yaparız. Burada devreye trello giriyo. 
+Sonrasında iki haftalık bir sprint düzenimiz olacak.
+Daily toplantıları: kim hangi beklio almış bunun takibi buradan yapılacak örneğin WhatsApp konuşmalarını bordu.
+Benim şu kadar görevim vardı bu kadarını yaptım bunu yapmak için de şunları bekliyorum gibi her gün update etmemiz gerekiyor. Üç tane ana toplantımız var birincisi Sprint planlama, ikincisi Sprint rewiew ne yaptık yani gerçekten aldığımız testleri bitirdik mi ürün ne durumda ürüne benziyor ortaya çıktı mı oyun ortaya çıktı mı onu değerlendiririz.
+Sonra retro toplantıları ile ürünü değil takımı değerlendirirsin takımı ne yapabiliriz ekip içinde şu kişiye şu görevi alsa şu kişiye çok yüklenmişiz gibi bir toplantı 
+Bootcamp in kazanı sadece ürüne göre değil proje yönetimine göre de karar verecek 
+Proje yönetiminin değerlendirmemiz için tek bir yol var oda sizden yazılı bir şekilde bunları almak . Çünkü 400 tane takımın tek tek toplantılarına girip bunları takip etme şansımız yok Buda akademide genelde bu şekilde yapılır
+Bunlar yapıldıktan sonra da bir sonraki Sprint planlamaya geçeceğiz
+[16.06.2023 12:38:49] Sümeyye Gökalp: https://www.youtube.com/live/DQya_XaIycY?feature=share
+[16.06.2023 12:39:47] Sümeyye Gökalp: Gülnur ben bu notları bu videodan çıkardım. Bakmak istersen diye seninle de paylaşıyorum.
+[16.06.2023 13:07:36] Sümeyye Gökalp: selcukbaki@windowslive.com
+‎[16.06.2023 13:27:56] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[16.06.2023 14:59:47] ~ Gülnur: Tamamdır Sümeyye.
+[16.06.2023 14:59:51] ~ Gülnur: bügün bu işler bitecek.
+[16.06.2023 15:01:51] Sümeyye Gökalp: Şimdiden kolay gelsin, benlik bir durum olursa yazarsın
+‎[16.06.2023 16:03:03] ~ Gülnur: Game__MetoCod.pdf • ‎8 sayfa ‎belge dahil edilmedi
+[16.06.2023 16:03:11] ~ Gülnur: Proje dökünamızı hazır.
+[16.06.2023 16:11:33] Sümeyye Gökalp: Eline sağlık Gülnur 😍👏🏻
+[16.06.2023 16:15:21] Sümeyye Gökalp: Githup a bunu mu yükleyeceğiz eğer öyleyse biraz yazım hataları var onları düzeltip yükleyelim, istersen ben uğraşırım. Bu sadece bize yol gösterecek ise gayet iyi hiçbir sıkıntı yok
+[16.06.2023 17:22:48] ~ Gülnur: yol haritası ama düzenleme gerekecek,
+[16.06.2023 18:09:09] Sümeyye Gökalp: Tamam müsait olunca bakıyım
+[16.06.2023 18:21:36] ~ Gülnur: Atıl hocanın mail'inin nerden bulabilirim ?
+‎[16.06.2023 18:26:50] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 18:28:15] Sümeyye Gökalp: Onu Selçuk’a sormuştum böyle cevap verdi
+[16.06.2023 18:28:57] ~ Gülnur: tamam onu bulabilirmisin rica etsem ben baktım bulamadım.
+[16.06.2023 18:29:11] ~ Gülnur: Takım ismi sodhisur olarak karar kılmıştık demi ?
+[16.06.2023 18:29:29] Sümeyye Gökalp: Tamamdır bulayım
+[16.06.2023 18:30:12] ~ Gülnur: herkesin isim soy isim lazım birde.
+[16.06.2023 18:30:23] Sümeyye Gökalp: Bunun için konuşmuş muyduk😅 ama olur yani farketmez
+[16.06.2023 18:31:50] ~ Gülnur: olsun olsun geriye dönmeyelim şimdi :D
+[16.06.2023 18:31:59] ~ Gülnur: isim soy isim yazabilirmisin ?
+[16.06.2023 18:32:43] ~ Gülnur: Aktif olmayan üyeninki lazım özellikle
+[16.06.2023 18:32:47] ~ Gülnur: Dilaranın soy adı neydi hya ?
+[16.06.2023 18:33:04] Sümeyye Gökalp: Tam isimim Hamide Sümeyye Gökalp  ama
+Sümeyye Gökalp i kullanıyorum
+[16.06.2023 18:33:30] Sümeyye Gökalp: Dilara nur değirmen
+[16.06.2023 18:34:00] Sümeyye Gökalp: 👍🏻
+[16.06.2023 18:34:19] Sümeyye Gökalp: Muhammet uysal
+[16.06.2023 18:35:59] Sümeyye Gökalp: https://github.com/atilsamancioglu
+[16.06.2023 18:36:22] ~ Gülnur: şeyi sorucam birde,
+[16.06.2023 18:36:27] ~ Gülnur: mesala trello yu paylaşıcaz, ya
+[16.06.2023 18:36:36] ~ Gülnur: ama üye olarak katılım sağlayabiliyorlar
+[16.06.2023 18:36:37] ~ Gülnur: şimdi
+[16.06.2023 18:36:44] ~ Gülnur: direk bağlantı linki mi koyayım ?
+[16.06.2023 18:37:37] Sümeyye Gökalp: Örnek githup linkinde miro için onlar da link paylaşmıştı sanırım
+[16.06.2023 18:37:51] Sümeyye Gökalp: Eğer linkten takip edebiliyorlarsa bence uygun
+[16.06.2023 18:38:12] Sümeyye Gökalp: Ben yine de Selçuk’a bir sorayım başka bir önerisi var mı
+[16.06.2023 18:39:58] ~ Gülnur: üye olmaları gerekiyor.
+[16.06.2023 18:40:17] Sümeyye Gökalp: Hmmm
+[16.06.2023 18:40:35] Sümeyye Gökalp: Tamam sordum yanıt gelince hemen dönecek
+[16.06.2023 18:40:45] Sümeyye Gökalp: Dönücem
+‎[16.06.2023 18:47:41] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[16.06.2023 18:49:46] Sümeyye Gökalp: Başka sormak istediğin bir şey var mı?
+[16.06.2023 19:10:27] ~ Gülnur: tamadmır, peki juriye notumuz nedir ?
+‎[16.06.2023 19:11:57] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[16.06.2023 19:12:18] Sümeyye Gökalp: Bunlar örnek de böyle almış
+[16.06.2023 19:13:34] Sümeyye Gökalp: Biz henüz projeye başlayamadık
+[16.06.2023 19:13:49] Sümeyye Gökalp: Biraz düşüneyim, senin aklına bir şey geliyor mu
+[16.06.2023 19:16:15] ~ Gülnur: bizim en büyük sıkıntımız şu anda eleman eksikliği proje başladık aslında, ben assetlerin hepsini çizdim.
+[16.06.2023 19:16:31] ~ Gülnur: bir günlük işim kaldı tematik bir backgroun çizdik. Planlama yaptık vesaire.
+[16.06.2023 19:18:21] ~ Gülnur: Bu projede en büyük eksikliğimiz projeye 3 kişi olmamızdır, ilk sprint boyunca oyunun fikri ve ekip içerisindeki iletişimi güçlendirmeye çalıştık. Ayrıca oyunumuz orjinal bir fikir olmasından dolayı assetlerin tamamı referans alarak kendimiz çizdik. Tematik bir oyun yapmayı ve bu oyunun gerçekleştirmek için bir çok bizi zorlayıcı etmeni düşünüp planlama ve karar aşamasında iletişimde kaldık.
+[16.06.2023 19:19:21] Sümeyye Gökalp: Çok iyi
+[16.06.2023 19:22:29] ~ Gülnur: https://github.com/wilkagul/MetoCod kontrol please
+[16.06.2023 19:25:39] Sümeyye Gökalp: İsim ben resmî olmayan kısım  için demiştim 😅 akademi tam isim olmadan bulamıyor diye biliyorum, onu düzeltebilir misin. Bir de muhamme”t “ diye yazıyordu Excel de
+[16.06.2023 19:26:25] Sümeyye Gökalp: Benimkinin başına da Hamide eklenecek
+[16.06.2023 19:26:49] Sümeyye Gökalp: Bir de Gülnur sen product owner değil miydin
+[16.06.2023 19:27:12] ~ Gülnur: yok sensin o :D
+[16.06.2023 19:27:43] Sümeyye Gökalp: Patron sensin 😂
+[16.06.2023 19:28:23] Sümeyye Gökalp: Hepsini okuyamadım okuyum tekrar yorumlarımı yazıyım
+[16.06.2023 19:29:09] ~ Gülnur: yok yok sensin :D
+‎[16.06.2023 19:29:43] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 19:29:52] ~ Gülnur: bir yarım saat mola.
+[16.06.2023 19:30:44] Sümeyye Gökalp: Tamam reyiz✌🏻
+[16.06.2023 19:31:17] Sümeyye Gökalp: Eline sağlık istersen yarın bak, çok yoruldun bugün.
+‎[16.06.2023 19:44:16] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 19:44:21] ~ Gülnur: bunlarıda şablon olarak ekledim sümmeyye.
+‎[16.06.2023 19:44:40] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[16.06.2023 19:44:57] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[16.06.2023 19:45:23] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 19:45:24] ~ Gülnur: ekstra olarak
+[16.06.2023 19:45:45] ~ Gülnur: şu anda conflict olmamak adına
+[16.06.2023 19:45:55] ~ Gülnur: proje dosyasında herkes bir dosyayı düzenleyebilir
+[16.06.2023 19:46:02] ~ Gülnur: yani aynı dosya üzerinde çalışırsak çakışırız.
+[16.06.2023 19:46:12] ~ Gülnur: ama ben şu anda 1 saat yemek yapcam.
+[16.06.2023 19:46:25] ~ Gülnur: istersen sen projeyi çekip
+[16.06.2023 19:46:27] ~ Gülnur: readme'yi açıp
+[16.06.2023 19:46:37] ~ Gülnur: her başlığın altına gidip normal düz yazı yazabilirsin.
+‎[16.06.2023 19:47:13] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 19:47:20] ~ Gülnur: tabi önce projeyi komple pull etmen gerekecek,
+[16.06.2023 19:47:33] ~ Gülnur: sonrasında istediğin bir code editörü ile açıp düzenleyebilrsin.
+[16.06.2023 19:47:40] ~ Gülnur: yanlız şuna dikkat etmemiz gerekiyor.
+[16.06.2023 19:47:47] ~ Gülnur: readme sayfasında aynı anda ikimizde çalışmayalım.
+[16.06.2023 19:47:59] ~ Gülnur: örnek veriyorum birşeyleri ekledin düzenledin diyelim. hemen commit at.
+[16.06.2023 19:48:08] ~ Gülnur: ve gruptan haber ver commit çıktım alın diye.
+[16.06.2023 19:48:29] ~ Gülnur: conflict oluruz. dosylaar karışır.
+[16.06.2023 19:48:38] ~ Gülnur: ben kaçtım bir saat sonra bunları doldurmaya gelicem :D
+‎[16.06.2023 19:49:32] Sümeyye Gökalp: ‎ses dahil edilmedi
+[16.06.2023 19:49:55] ~ Gülnur: sıkıntı yok :D
+[16.06.2023 19:50:01] ~ Gülnur: zaten basit şeyler kaldı.
+[16.06.2023 19:50:06] ~ Gülnur: bir cümlelik yazıcaz.
+[16.06.2023 19:50:10] ~ Gülnur: kim önce gelir se yazar :D
+‎[16.06.2023 19:50:17] Sümeyye Gökalp: ‎ses dahil edilmedi
+[16.06.2023 19:50:32] ~ Gülnur: 🤣😎😎
+‎[16.06.2023 20:02:38] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[16.06.2023 22:35:50] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+[16.06.2023 22:37:24] ~ Gülnur: Bunu tekrar gonderebilirmisjn
+[16.06.2023 22:40:24] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+‎[16.06.2023 22:42:34] Sümeyye Gökalp: MetoCod.docx • ‎9 sayfa ‎belge dahil edilmedi
+[16.06.2023 22:44:13] ~ Gülnur: 😁😁😁
+[16.06.2023 22:47:03] Sümeyye Gökalp: ya kaç dakikadır düzenlediğim doc u göndermeye çalışıyorum gitmiyor
+[16.06.2023 22:47:15] Sümeyye Gökalp: mailini verir misin oradan göndereyim
+[16.06.2023 22:47:48] Sümeyye Gökalp: bu arada boşlukları ve boş sayfaları silemedim bir türlü
+[16.06.2023 22:50:45] Sümeyye Gökalp: gülnur?
+[16.06.2023 22:52:17] ~ Gülnur: wilkagul@gmail.com
+[16.06.2023 22:53:52] Sümeyye Gökalp: gönderdim
+[16.06.2023 23:06:24] ~ Gülnur: readme dosyasında herhangi bir şey yaptın mı ? sümeyye ona göre tekrar düzenleme başlıcam.
+[16.06.2023 23:10:37] Sümeyye Gökalp: Yok ona bakmadım
+[16.06.2023 23:10:55] Sümeyye Gökalp: Çorba etmek istemedim bir şeyleri
+‎[16.06.2023 23:31:39] ~ Gülnur: ‎görüntü dahil edilmedi
+[16.06.2023 23:33:48] Sümeyye Gökalp: Eline sağlık, tertemiz olmuş 👏🏻😊
+[16.06.2023 23:34:13] ~ Gülnur: bu arada sizin kartları done çektim unity kurun bir ara artık :D
+[16.06.2023 23:34:46] Sümeyye Gökalp: Tamam dif denk sınavını veriyim kuracağım 😅
+[16.06.2023 23:35:06] Sümeyye Gökalp: Ne kaldı şimdi
+[16.06.2023 23:40:42] ~ Gülnur: Oyunun yapılması :D
+[16.06.2023 23:43:59] Sümeyye Gökalp: O sonra. :) Selçuk u collobrait etmiş miydik
+[16.06.2023 23:44:21] ~ Gülnur: herkesi ettik.
+[16.06.2023 23:44:23] Sümeyye Gökalp: Yarın ona yazıyım bir kontrol etsin
+[16.06.2023 23:44:25] ~ Gülnur: atil hocayıda
+[16.06.2023 23:44:36] Sümeyye Gökalp: Hmm tamam güzel
+[16.06.2023 23:47:02] Sümeyye Gökalp: Şimdi ben diyelim readme dosyamızda bir yazım yanlışı gördüm onu direk kaleme  tıklayıp düzeltirsem sorun olmaz dimi
+[16.06.2023 23:47:55] ~ Gülnur: olur
+[16.06.2023 23:47:58] ~ Gülnur: önce projei indiricen
+[16.06.2023 23:48:00] ~ Gülnur: artık
+[16.06.2023 23:48:08] ~ Gülnur: vscode'da düzenleyip commit atıcan
+[16.06.2023 23:48:25] ~ Gülnur: o şekilde hiç bir anlamı olmaz sümeyye
+[16.06.2023 23:48:25] Sümeyye Gökalp: O zaman hiç ellemiyim 😂😂
+[16.06.2023 23:49:31] Sümeyye Gökalp: İkinci sprinte geçtiğimizde dc de sen bir kere göstersen olur mu
+[16.06.2023 23:50:14] ~ Gülnur: yarın falan göstereyim sende ufaktan commit çıkmaya basla summeye
+[16.06.2023 23:51:36] Sümeyye Gökalp: Tamam, 🥲
+[16.06.2023 23:52:10] Sümeyye Gökalp: O zaman ben biraz analiz çalışayım, yarın görüşürüz
+‎[17.06.2023 00:20:12] ~ Gülnur: ‎görüntü dahil edilmedi
+[17.06.2023 00:31:33] ~ Gülnur: https://github.com/wilkagul/MetoCod son olarak, 
+
+1.	*Ürün Fikri ve Rolleri Belgelemek*
+1.1	Takım İsmi
+1.2	Takım Rolleri
+1.3	Oyun ile ilgili Bilgiler
+1.3.1	Oyunun Adı
+1.3.2	Oyun Türü
+1.3.3	Oyunun Amacı
+1.3.4	Oyunun Açıklaması
+1.3.5	Oyunun Özellikleri
+1.3.6	Oyun Mekaniği
+1.3.7	Oyun Platformu
+1.3.8	Hedef Kitle
+1.3.9	Jüriye Not
+1.4	Product Backlog
+2.	*Her Sprint Sonunda Beklentiler*
+2.1	Sprint Notları
+2.2	Tahmin edilen tamamlanacak Puan
+2.3	Tahmin Mantığı
+2.4	Daily Scrum
+2.5	Ürün Durumu
+2.6	Sprint Board Updates
+2.7	Screenshot
+2.8	Sprint Review
+2.9	Sprint Retrospective
+
+ bu maddelerin hepsi github sayfasına yüklenmiştir.
+[17.06.2023 00:31:51] ~ Gülnur: haft ve cümle hataları yapmış olabilirlim kontrollerinizi rica edicem.
+[17.06.2023 00:33:43] ~ Gülnur: onun haricinde kalan işler,
+-> sana readme anlatıcam sümeyye.
+-> background ve gezegen çiziyorum inşallah biticek.
+-> Projenin kodlanmasına yapılmasına başlıcaz.
+-> Başlamadan önce tüm süreci yazıcamız kodları falan, trelloda kartları açıcaz.
+-> Sesler var birde işte, aklıma geldikçe yazarım. yine bu şekilde
+[17.06.2023 00:34:10] ~ Gülnur: bir ara bu konuşmaların çıktısını alıp github'a koymamız gerekiyor, daily scrum için.
+[17.06.2023 10:01:10] Sümeyye Gökalp: Eline sağlık
+[17.06.2023 10:06:02] Sümeyye Gökalp: Tamam bugün githup ın üstünden birlikte geçelim, kaçta yapalım toplantıyı?
+[17.06.2023 10:06:33] Sümeyye Gökalp: @905493240032 sende olursan çok iyi olur.
+[17.06.2023 11:17:09] Muhammet Uysal Bootcamp: Çok gece kalmadan yaparsak çok mutlu olurum ben
+[17.06.2023 11:17:34] Muhammet Uysal Bootcamp: Saat 4 e kadar falan bitirebilirsek
+[17.06.2023 11:49:44] Sümeyye Gökalp: Ben müsaitim Gülnur sen
+[17.06.2023 12:17:05] ~ Gülnur: 14.00te uygunum
+[17.06.2023 12:25:06] Sümeyye Gökalp: tamam 14 e yapalım, 16 ya bitirmiş oluruz
+[17.06.2023 12:26:37] Sümeyye Gökalp: trello ya bu toplantıyı retro olarak giriyorum 1.sprint öncesi son değerlendirmemizi ve düzenlemelerimizi yapmış oluruz
+[17.06.2023 14:03:46] Sümeyye Gökalp: Geliyor musunuz arkadaşlar
+[17.06.2023 14:04:04] Muhammet Uysal Bootcamp: Ben geliyorum
+[17.06.2023 14:04:40] ~ Gülnur: 5dkya geliyorum
+[17.06.2023 14:05:18] Sümeyye Gökalp: Tamam bende çayımı alıp geliyorum
+[17.06.2023 14:12:05] Sümeyye Gökalp: .
+[17.06.2023 15:11:56] Muhammet Uysal Bootcamp: Ya ben şeyi sormayı unuttum unity nin hangi versiyonunu kullanacağız
+[17.06.2023 15:13:54] Sümeyye Gökalp: .
+[17.06.2023 15:14:24] Muhammet Uysal Bootcamp: Teşekkür ederim
+‎[17.06.2023 15:15:38] Sümeyye Gökalp: WhatsApp Chat - U-134 Bootcamp .zip ‎belge dahil edilmedi
+[17.06.2023 15:16:49] ~ Gülnur: Bunuda eklerim.
+[18.06.2023 12:51:36] Sümeyye Gökalp: Selam, dün toplantıda konuştuğumuz düzenlemeleri yapabildiniz mi?
+[18.06.2023 12:56:18] ~ Gülnur: Neler vardı-
+1- Game design document düzenlenecekti.
+2- Github  readme kelime cümle hataları sizdeydi sanırsam.
+3- Trello sprint 2 ve 3 yapılacaktır doğrumuyum ?
+[18.06.2023 13:15:41] Sümeyye Gökalp: 1. Evet 
+2. Muhammet sendeydi, akşam bakabildin mi?
+3. Pazartesi girecektin, aciliyeti yok
+4. Tahmin mantığı düzenlenecek
+‎[18.06.2023 13:21:16] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[18.06.2023 13:22:02] ~ Gülnur: 4. tahmin mantığı readme'demi düzeltilecek ?
+[18.06.2023 13:25:47] Sümeyye Gökalp: Evet üçüncü Sprint 130’a düşüreyim demiştin, toplam puan mantığını elde edebilmek için
+[18.06.2023 13:26:28] ~ Gülnur: düşürdüm sanırsam, ya trello kart içinde ve readme düzenledim ben onu ama tekrar kontrol ederim :)
+[18.06.2023 13:26:42] ~ Gülnur: amaç orada 360 bulmaktı
+[18.06.2023 13:26:46] Sümeyye Gökalp: He bu arada daily scrum mesajları vardı
+[18.06.2023 13:26:55] Sümeyye Gökalp: Aynen
+[18.06.2023 13:26:58] ~ Gülnur: tmm toplum şekilde yazabilirmisin rica etsem :D
+[18.06.2023 13:27:05] ~ Gülnur: birazdan hepsini halledeyim.
+[18.06.2023 13:27:13] Sümeyye Gökalp: tamamdır
+[18.06.2023 13:27:35] Sümeyye Gökalp: Trello mi gireyim buradan mı yazıyım
+[18.06.2023 13:38:43] ~ Gülnur: burdan yazalım ya
+[18.06.2023 13:38:52] Sümeyye Gökalp: 1. game desing doc düzenlenecek
+2. githup readme hataları kontrol edilecek-Muhammet
+3. Puanlama mantığı readme dosyasında düzenlenecek 
+4. daily scrum mesajları yüklenecek
+5. sprint 2-3 trello girişi
+[18.06.2023 13:39:04] ~ Gülnur: ekstra iş yapmayalım orda o sprint bitti benim gçzümde.
+[18.06.2023 13:39:18] ~ Gülnur: tamamdır teşekkür ederim
+[18.06.2023 13:41:02] Sümeyye Gökalp: tamamdır, bitirince haber verir misin asistanla son bir kontrol yapalım
+[18.06.2023 13:42:15] Sümeyye Gökalp: He bu arada benim title yanına devolper ı ekler misin, herkes aynı zamanda devoloper olmak zorunda
+[18.06.2023 13:42:32] ~ Gülnur: Anlaştık
+[18.06.2023 13:42:38] Sümeyye Gökalp: Bu sondu 🤷🏻‍♀️ yani umarım
+‎[18.06.2023 13:52:47] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+‎[18.06.2023 13:52:47] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+‎[18.06.2023 13:52:47] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+‎[18.06.2023 13:52:47] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[18.06.2023 20:28:51] ~ Gülnur: Selamlar daha eve geçemedim geçince benim görevleri yapicanlm
+[18.06.2023 20:41:18] Sümeyye Gökalp: Tamamdır, Selçuk ben yazmadan githup ı zaten kontrol etmiş, hatta sıkıntılı hesapları uyarmış, bende sordum beni uyarmadın neden diye, o da doldurmuşsun çünkü dedi. Yani muhtemelen istenenleri karşılıyoruz kalanları da yarın saat 10:00 a kadar halledersek çok sorun olmaz diye düşünüyorum
+[18.06.2023 20:42:58] Sümeyye Gökalp: Şimdiden bu süreci sağlıklı bir şekilde atlattığımız için teşekkür ediyor darısı 2. Sprinte diye temennilerimi iletiyorum ✌🏻
+[18.06.2023 22:27:37] ~ Gülnur: 👍👏👏👏😁😁😁
+[18.06.2023 23:54:14] ~ Gülnur: Kendime hatırlatma,
+
+1- Game desing doc yüklenecek.
+2- Daily scrum mesajları yüklenecek.
+3- Puanlama'da hata varmı bakılacak,
+4- Trello yapılacak (Yarın !)
+[19.06.2023 00:28:40] ~ Gülnur: commit .çıktım sadece trello kartlartı kaldı onları yarın bakıcam
+[19.06.2023 04:37:22] Sümeyye Gökalp: Devoloper ı da ekler misin, o zorunluymuş
+[19.06.2023 09:15:44] ~ Gülnur: Dökumanda var nereye eklemem gerekiyor
+‎[19.06.2023 09:19:26] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+‎[19.06.2023 11:02:31] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[19.06.2023 13:19:57] ~ Gülnur: Bugün gene dışarıdayim
+[19.06.2023 13:20:03] ~ Gülnur: İstersen sen çek
+[19.06.2023 13:20:10] ~ Gülnur: Ve düzelt orayı
+[19.06.2023 13:20:20] ~ Gülnur: Olmadı ben bir çözüm düşünücem
+[19.06.2023 13:20:23] ~ Gülnur: Kusura bakma
+[19.06.2023 13:21:56] Sümeyye Gökalp: Tamam ya çok sıkıntı değil, ama dediğim gibi olmadı Çarşambadan sonra zaten ben kuracağım
+[19.06.2023 13:22:16] Sümeyye Gökalp: O zaman bakıp halledelim
+[19.06.2023 13:22:32] ~ Gülnur: Çarşambaya kalmaz ya
+[19.06.2023 13:22:43] ~ Gülnur: Akşama hallederim
+[19.06.2023 13:23:21] Sümeyye Gökalp: Tamamdır şimdilik kimseden ses yok, 3 Temmuz’a kadar ikinci Sprinti çıkmış oluruz Allah ın izniyle
+[20.06.2023 21:26:48] Sümeyye Gökalp: Arkadaşlar selam
+[20.06.2023 21:27:08] Sümeyye Gökalp: 1. Sprint notumuz belli olmuş :)
+[20.06.2023 21:27:29] Sümeyye Gökalp: Selçuk birazdan haber verecek
+[20.06.2023 21:27:55] Sümeyye Gökalp: Sizde biraz heyecanlanın istedim 😄
+[20.06.2023 21:31:38] ~ Gülnur: Ay hadi hayırlısı
+[20.06.2023 21:31:44] ~ Gülnur: Güzel haberini bekliyoruz
+[20.06.2023 23:46:27] Sümeyye Gökalp: Açıklıyorumm
+[20.06.2023 23:46:37] Sümeyye Gökalp: Hazır mıyızz
+[20.06.2023 23:47:26] ~ Gülnur: Evet
+‎[20.06.2023 23:48:13] Sümeyye Gökalp: ‎GIF dahil edilmedi
+[20.06.2023 23:49:04] ~ Gülnur: Vaaaoovv
+[20.06.2023 23:49:10] ~ Gülnur: Süperiz
+‎[20.06.2023 23:49:14] ~ Gülnur: ‎Çıkartma dahil edilmedi
+[20.06.2023 23:49:19] ~ Gülnur: Elinize saglik
+[20.06.2023 23:50:10] Sümeyye Gökalp: Hepimizin eline sağlık, iyi bir motivasyon oldu bu haber
+[20.06.2023 23:50:49] ~ Gülnur: Evet çok şükür 🙏🏻
+[20.06.2023 23:50:57] Muhammet Uysal Bootcamp: Ooo çok iyi
+[20.06.2023 23:51:09] Muhammet Uysal Bootcamp: Elimize sağlık
+[20.06.2023 23:51:19] Muhammet Uysal Bootcamp: Elinize daha doru olur
+[20.06.2023 23:51:47] Sümeyye Gökalp: İlahi Muhammet 😂
+[20.06.2023 23:52:32] Sümeyye Gökalp: Sen Kasım a Gülnur için okkalı bir kahve hazırla artık
+[20.06.2023 23:55:44] Sümeyye Gökalp: Bu arada ben unity eşimin pc kurdum, yarın akşam düzenlemeleri yapacağım inşallah 😊, cümleten hayırlı geceler ✋🏻
+[21.06.2023 00:04:54] ~ Gülnur: Hayırlı geceler
+[21.06.2023 00:23:19] Muhammet Uysal Bootcamp: Abla seni de beklerim kahve konusunda çok öz guvenliyim
+[21.06.2023 08:21:21] Sümeyye Gökalp: Bakalım neden olmasın :)
+‎[21.06.2023 12:25:24] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[21.06.2023 12:25:24] ~ Gülnur: ‎görüntü dahil edilmedi
+[21.06.2023 12:27:47] ~ Gülnur: Bu sprint Her sprint sonu beklentiler altındaki maddeleri, readme dosyasına sizlerin eklemenizi rica edicem. Artık projeye başlıyoruz. Bu sprint'de yapamız gereken 11'tane iş aldım, toplam sprint süresi ise 14 gün, bügün çarşamba ve 3' gün gitti bile. Yoğun bir süreç beni bekliyor.
+[21.06.2023 12:28:01] ~ Gülnur: Örnek readme dosyamız hazır.
+[21.06.2023 12:37:13] Sümeyye Gökalp: Zevkle
+[21.06.2023 12:38:06] Sümeyye Gökalp: Eline sağlık ben saat 20 den sonra müsait olacağım, sonra ilgileneceğim hepsiyle
+[21.06.2023 12:38:41] Sümeyye Gökalp: Yarın da müsait olursanız ilk 2. Sprint toplantımızı planlayalım
+[21.06.2023 12:43:05] ~ Gülnur: Yarın Kemanım var ama, öğlen müsait olur iseniz yapalım.
+[21.06.2023 12:43:10] ~ Gülnur: Muhammed'de olsun lütfen.
+‎[21.06.2023 12:43:49] ~ Gülnur: ‎görüntü dahil edilmedi
+[21.06.2023 12:43:57] ~ Gülnur: tüm yapılacak iş süreçlerimiz bellidir.
+[21.06.2023 12:44:03] ~ Gülnur: Allah kolaylık versin :D
+[21.06.2023 12:51:53] Sümeyye Gökalp: Ben müsaitim
+[21.06.2023 12:52:28] Sümeyye Gökalp: Katılıyorum @905493240032, tamam mıyız?
+[21.06.2023 12:52:45] Sümeyye Gökalp: Süper
+[21.06.2023 12:52:59] Sümeyye Gökalp: Amin
+[21.06.2023 13:09:54] ~ Gülnur: her task'da yapılacak kişiler belirlenmiş ve atanmıştı trelloyu takip ediniz.
+[21.06.2023 13:11:34] ~ Gülnur: artık toplantıları iş olarak açmayalım, Onun için daily retro ve review var zaten onların içini doldururuz.
+[21.06.2023 13:11:42] ~ Gülnur: öyle daha mantıklı iş yapmış oluruz.
+[21.06.2023 13:11:48] ~ Gülnur: trello düzenimiz bozulmasın.
+[21.06.2023 13:18:05] ~ Gülnur: Birde sümeyye şeyi sorabilirmisin,
+[21.06.2023 13:18:25] ~ Gülnur: İtch io diye bir yer var oyunları ilgili sprint çıktılarını bir yerden görmek isterlermi diye sorarmısın.
+[21.06.2023 13:18:35] ~ Gülnur: ekstra iş çıkacak olmazsa iyi ama
+[21.06.2023 13:18:40] ~ Gülnur: öyle bir beklenti varsa bileyim.
+[21.06.2023 13:18:48] ~ Gülnur: ya proje geliştirme sonunda mı bakıcaklar.
+[21.06.2023 13:23:18] Sümeyye Gökalp: Tamamdır soruyorum hemen
+[21.06.2023 13:24:30] Muhammet Uysal Bootcamp: Ben tamamım
+[21.06.2023 13:28:00] Sümeyye Gökalp: Anlaştık, ben sen her yaptığımızı trelloya girememi istediğin için söyledim. İkinci bir yönlendirmene kadar trellodan sadece iş takibimi yaparım
+[21.06.2023 13:30:38] Sümeyye Gökalp: Güzel :) , bir de seninde gözün trello da olsun, öncelikli olarak sana atanan işleri takip ettikten sonra, diğer sprintleri de müsait oldukça okuyup takip etmeni; iş süreçlerini gözlemlemeni rica edeceğim, Proje sunumu yaparken bu çok gerekli olacak
+[21.06.2023 13:32:28] Muhammet Uysal Bootcamp: Tamamdır ilk sprinte olduğu gibi bu sprinti de tam puanla tamamlayacagimiza inanıyorum ☺️
+[21.06.2023 13:33:46] Sümeyye Gökalp: Hadi bakalım, Hüseyin i üzeceğiz bu gidişle ama napalım kendi seçeneği 😂
+[21.06.2023 13:34:56] Muhammet Uysal Bootcamp: Yani artık elden bir şey gelmez kendi kararı
+‎[21.06.2023 13:53:14] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[21.06.2023 14:04:19] Sümeyye Gökalp: Bu arada @905493240032 unity i kurabildin mi?
+[21.06.2023 14:18:54] ~ Gülnur: Tamamdır bu güzel haber ver.
+[21.06.2023 14:19:50] ~ Gülnur: sprint sonuna kadar ekstra build işini yapmıcaz demektir.
+[21.06.2023 14:20:00] ~ Gülnur: unity'leri kurun
+[21.06.2023 14:20:05] ~ Gülnur: vs code'lar hazır olsun.
+[21.06.2023 14:46:44] Muhammet Uysal Bootcamp: Evet çok az kaldi
+[21.06.2023 16:27:46] ~ Gülnur: background ve gezegenler'de hazır free ücretsiz asset kullanabilirim bilginiz olsun.
+[21.06.2023 16:34:02] Sümeyye Gökalp: Tamam, free asset kullanmak serbest sıkıntı yok
+[21.06.2023 16:34:08] ~ Gülnur: okeys.
+‎[22.06.2023 00:54:49] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[22.06.2023 00:55:26] Sümeyye Gökalp: ben desktopa çekemiyorum dosyaları, araştırdım biraz ama çözemedim
+[22.06.2023 01:13:14] Sümeyye Gökalp: Çözdüm
+‎[22.06.2023 10:14:43] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[22.06.2023 11:53:59] ~ Gülnur: bakıcam sümeyye.
+[22.06.2023 13:14:10] Sümeyye Gökalp: Bugün toplantı yapıyor muyuz?
+[22.06.2023 18:10:34] Muhammet Uysal Bootcamp: Yarın sabah yapsak olur mu
+[22.06.2023 18:21:14] Sümeyye Gökalp: Benim elimde şuan hazır birşey yok, android kısmında tıkandım kaldım, o yüzden sprint düzenlemesi yapamıyorum, Gülnur ne zaman müsait olacaksa o zaman yapalım derim, boş yere oyalayıp vaktini de almak istemiyorum çünkü
+[22.06.2023 18:22:15] Sümeyye Gökalp: Sen yükleyebildiysen olmadı sen baksan olur mu?
+[22.06.2023 18:22:27] Sümeyye Gökalp: Olmadı seninle bağlanıp birlikte de yapabiliriz
+[22.06.2023 18:22:47] Sümeyye Gökalp: Kızın üstünden yük alalım biraz
+[22.06.2023 18:56:35] ~ Gülnur: Valla bügün çok yoğun bir gün geçiriyorum.
+[22.06.2023 18:56:39] ~ Gülnur: en olmadı yarın bakalım.
+[22.06.2023 18:58:48] Sümeyye Gökalp: Olur sen müsait olunca haber edersin, kolay gelsin
+[23.06.2023 23:55:01] Sümeyye Gökalp: Gülnur selam
+‎[23.06.2023 23:55:57] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[23.06.2023 23:57:02] Sümeyye Gökalp: Valla kusura bakmayın arkadaşlar, nasıl oldu bilmiyorum birkaç tik bir kaç güncelleme sonunda ulaştım oyunumuza
+[23.06.2023 23:58:07] Sümeyye Gökalp: Böyle oyun önüme gelince bi mutlu etti beni, tekrar eline sağlık çizimler dosyalar herşey harika 😍
+[24.06.2023 00:03:59] Sümeyye Gökalp: Ben readme dosyası üzerinde düzenlemelere başlıyorum bilginiz olsun
+[24.06.2023 01:24:57] Sümeyye Gökalp: Düzenlemeleri yaptım ilk commiti atmıştım şimdi 2. yi atmaya çalışıyorum ama hala bekliyorum
+‎[24.06.2023 01:25:20] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[24.06.2023 01:28:38] ~ Gülnur: Kusura bakma sumeyye
+[24.06.2023 01:28:49] ~ Gülnur: Yarın akşam sizdeyim
+[24.06.2023 01:29:03] ~ Gülnur: Bugün aşırı yoğundum
+[24.06.2023 01:30:34] Sümeyye Gökalp: Sıkıntı yok, tamam inşallah 😊
+[24.06.2023 01:31:14] Sümeyye Gökalp: Ya yalnız bir şey soracağım
+[24.06.2023 01:31:29] Sümeyye Gökalp: Ben son düzenlediğim commiti çıkamıyorum
+‎[24.06.2023 01:32:28] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[24.06.2023 01:36:39] ~ Gülnur: Message kısmına bie şey yazarbilirmisin
+[24.06.2023 01:36:46] ~ Gülnur: Bakalim o zaman çıkacak mu
+[24.06.2023 01:37:31] Sümeyye Gökalp: Yazmıyor
+[24.06.2023 01:38:14] ~ Gülnur: Oraya yazınca commit butonu aktif olucak
+[24.06.2023 01:39:08] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+[24.06.2023 01:40:35] Sümeyye Gökalp: Bence buradaki yeşille beni uyarıyor ama ne denek istedi anlamadım,# falan diyor ama
+[24.06.2023 01:41:33] ~ Gülnur: O üzerine geldiğin yere
+[24.06.2023 01:41:49] ~ Gülnur: Yazı yazıp video atabilirmisin
+[24.06.2023 01:42:50] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+[24.06.2023 01:44:11] ~ Gülnur: Yazı yazılmıyor
+[24.06.2023 01:44:17] Sümeyye Gökalp: Bundan önce bir commit çıkmıştım deneme amaçlı
+[24.06.2023 01:44:20] Sümeyye Gökalp: Evet
+[24.06.2023 01:44:23] ~ Gülnur: Github hesabınla
+[24.06.2023 01:44:33] ~ Gülnur: Entegre değil sanirsam
+[24.06.2023 01:44:52] Sümeyye Gökalp: Yok ama commit çıktım az önce
+[24.06.2023 01:46:04] ~ Gülnur: Vs codu kapat ac
+[24.06.2023 01:46:04] Sümeyye Gökalp: Sonra 2. Sprint için senin dediğin gibi üstten kopyala yapıştır deyip düzenledim bu kez çıkamıyor
+[24.06.2023 01:46:10] ~ Gülnur: Evet atmışsın
+[24.06.2023 01:46:19] Sümeyye Gökalp: Tamam
+[24.06.2023 01:47:07] Sümeyye Gökalp: Dur 1 dk olacak galiba
+[24.06.2023 01:47:59] ~ Gülnur: Bozma aman diyim
+[24.06.2023 01:48:19] Sümeyye Gökalp: 😂
+[24.06.2023 01:48:25] Sümeyye Gökalp: Baksana bi olmuş mu
+[24.06.2023 01:52:05] Sümeyye Gökalp: Oldu galiba
+[24.06.2023 01:52:25] ~ Gülnur: Okey
+[24.06.2023 01:52:48] Sümeyye Gökalp: Tamamdır 👍🏻
+[24.06.2023 14:00:13] Sümeyye Gökalp: Gülnur selam, boş durmamak için oyun için seslere bakmak istiyorum, ne tür seslere ihtiyacımız var? rica etsem yazabilir misin.
+[24.06.2023 14:00:37] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+[24.06.2023 14:01:24] Sümeyye Gökalp: Anladım, o zaman size farklı ses türlerinde örnekler verebilirim. İşte 2D gezegen savunması oyunu için kullanabileceğiniz ses örnekleri:
+
+Arka Plan Müziği:
+
+Epik, heyecan verici bir müzik
+Bilim kurgu temalı atmosferik müzik
+Hızlı tempolu aksiyon müziği
+Oyun Efektleri:
+
+Düşman vurulma sesleri
+Silah sesleri
+Patlama ve yok etme sesleri
+Hareket ve gezinme sesleri
+Power-up ve bonus sesleri
+Menü ve arayüz sesleri
+Karakter Sesleri:
+
+Ana karakterin hareket sesleri
+Düşman karakterlerin saldırı ve hareket sesleri
+Karakterin zafer veya yenilgi sesleri
+[24.06.2023 14:02:37] Sümeyye Gökalp: bunlaradn hangisi bize lazım
+[24.06.2023 14:43:34] ~ Gülnur: Arkq plan fon
+Düşman vurma
+Gezegeni inme sesi
+[24.06.2023 14:43:49] ~ Gülnur: 3 adet bulsan yeterli
+[24.06.2023 14:50:53] Sümeyye Gökalp: Tamamdır
+[24.06.2023 22:44:19] Sümeyye Gökalp: Arkadaşlar selam, şimdi size birkaç oyun için ses atacağım işe yarar varsa söyler misiniz yoksa aramaya devam :)
+‎[24.06.2023 22:46:38] Sümeyye Gökalp: space rock.ogg ‎belge dahil edilmedi
+‎[24.06.2023 22:46:52] Sümeyye Gökalp: OutThere.ogg ‎belge dahil edilmedi
+‎[24.06.2023 22:47:00] Sümeyye Gökalp: M31.ogg ‎belge dahil edilmedi
+‎[24.06.2023 22:47:06] Sümeyye Gökalp: ‎ses dahil edilmedi
+‎[24.06.2023 22:47:15] Sümeyye Gökalp: ‎ses dahil edilmedi
+‎[24.06.2023 23:14:53] Sümeyye Gökalp: ‎ses dahil edilmedi
+‎[24.06.2023 23:15:49] Sümeyye Gökalp: island_0.flac ‎belge dahil edilmedi
+[24.06.2023 23:29:39] ~ Gülnur: Gayret güzel dursun bunlar
+[24.06.2023 23:29:51] ~ Gülnur: Ellerine saglik
+[24.06.2023 23:31:24] Sümeyye Gökalp: Tamamdır. Ben öyle genel baktim bu üç nişten birine uymayan varsa yazarsın yine ararım
+[24.06.2023 23:31:32] Sümeyye Gökalp: Ne demek
+[24.06.2023 23:32:09] ~ Gülnur: Tmmdir
+[25.06.2023 02:10:15] ~ Gülnur: Yarın metocod'dayım onunla ilgilenicem gerekli bilgilendirmeleri buradan yapıyor olurum kusura bakmayın bu hafta yoğun geçti biraz rahatım artık
+[25.06.2023 09:24:31] Sümeyye Gökalp: Tamamdır, benim yapabileceğim bir şey olursa haber ver lütfen, ben müsaitim
+‎[25.06.2023 11:30:20] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[25.06.2023 12:22:45] Muhammet Uysal Bootcamp: Bunu bende fark ettim ama sıkıntı olursa premium alırız artık
+[25.06.2023 12:45:34] Sümeyye Gökalp: Akademi trello veya miro ücretsiz onu kullanın diye önermişti, bende o yüzden trelloda hesap oluşturmuştum, acaba istemeden premium olarak mı açtım; premiumu almak son seçeneğimiz olsun çünkü akademi eşit değerlendirme için free seçeneklerin üzerinde ısrarla duruyor
+[25.06.2023 12:58:27] ~ Gülnur: Bisey olmaz ben yaptım bir özelliği görmek için oda yokmuş
+[25.06.2023 13:20:29] Sümeyye Gökalp: Gülnur benlik bir şey var mı, dışarı çıkacağım ona göre pc yanıma alayım?
+[25.06.2023 13:21:22] ~ Gülnur: Yok
+[25.06.2023 23:11:59] Sümeyye Gökalp: Arkadaşlar selam, bayram yaklaşıyor, bayram öncesi bir kez dc den toplanalım hem bayramlaşalım hem süreci konuşalım ne dersiniz?
+[26.06.2023 01:26:29] Muhammet Uysal Bootcamp: Bana uyar abla
+[26.06.2023 01:26:53] ~ Gülnur: Olur uyar bana da
+[26.06.2023 08:41:46] Sümeyye Gökalp: Bugün 13.30 nasıl?
+[26.06.2023 09:05:15] Muhammet Uysal Bootcamp: Akşama doğru musahit olacaksanız akşam yapsak ben ailemin yanına gideceğim de o saatlerde katılım sağlayamaya bilirim
+[26.06.2023 09:06:30] Sümeyye Gökalp: Akşam 20 den sonra müsait olurum, senin için uygun mu?
+[26.06.2023 09:09:59] Muhammet Uysal Bootcamp: Benim için uygun Gülnur abla da musahit olursa yaparız
+[26.06.2023 09:18:39] Sümeyye Gökalp: Gülnur?
+[26.06.2023 11:43:58] ~ Gülnur: Ben o saatte kemanda oluyorum 9.30da müsait olabilirim
+[26.06.2023 12:05:24] Sümeyye Gökalp: Tamamdır benim için 20 sonrası farketmez, o zaman akşam 21.30 da görüşürüz
+[26.06.2023 21:19:58] Sümeyye Gökalp: Selam, toplantıya 10 dakika var müsait misiniz, ekstra vakit isteyen var mı😊
+[26.06.2023 21:39:26] ~ Gülnur: ‎Bu mesaj silindi.
+[26.06.2023 21:39:42] ~ Gülnur: Geliyorum 5 dkya
+[26.06.2023 21:41:41] Sümeyye Gökalp: Tamamdır
+[26.06.2023 21:41:47] Sümeyye Gökalp: @905493240032 ?
+[26.06.2023 21:47:58] Muhammet Uysal Bootcamp: Ben hastahanedeydim de o yüzden katılamadım kusura bakmayın
+[26.06.2023 21:48:39] ~ Gülnur: Başka zaman toplalamın o zaman benim şu anda tamemen projelere odaklanmam lazım
+[26.06.2023 21:48:45] ~ Gülnur: commit'lerden bilgi geçerim sizlere ?
+[26.06.2023 21:49:09] Sümeyye Gökalp: Tamam benim için fark etmez
+[26.06.2023 21:49:16] Sümeyye Gökalp: Kolay gelsin
+[26.06.2023 21:49:27] ~ Gülnur: Sizlerede kolay gelsin.
+‎[2.07.2023 02:48:01] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[2.07.2023 02:48:15] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[2.07.2023 02:48:31] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[2.07.2023 02:49:59] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[2.07.2023 02:51:16] ~ Gülnur: ‎görüntü dahil edilmedi
+[2.07.2023 02:51:37] ~ Gülnur: yani burası tertemiz olucak ki, sizlerde projei benim yaptıklarımı rahatlıkla alabilesiniz.
+[2.07.2023 02:52:23] ~ Gülnur: sprint işlerini düzenleme kısımlarını lütfen unutmayalım. Ekstra iş çıkmasın o tarafta. ve commit çıktıkca haber vermenizi rica edicem.
+[2.07.2023 02:55:03] ~ Gülnur: ayrıca readme dosyasını ufaktan düzenledim eğer çok değişiklik yaptı iseniz bana haber verin ona göre ekstra onu bir konuşalım :D herkese iyi geceler, gece gece rahatsız ettiğim için kusura bakmayın :D
+[2.07.2023 02:55:59] Sümeyye Gökalp: Hayırlı geceler
+[2.07.2023 02:58:09] Sümeyye Gökalp: Ben uyanıktım, eline sağlık, sabah misafirim var, ama projeyi çekmek için sabırsızlanıyorum. Eline sağlık, bayramda bakamam diyordun, ona rağmen birsürü şey yapmışsın. Çok sağ ol
+[2.07.2023 02:58:37] ~ Gülnur: öncesinde bakmam gerekiyordu ama sen kusura bakma, çok yoğundu işler.
+[2.07.2023 02:58:45] ~ Gülnur: ama artık bu haftadan itibaren rahatım
+[2.07.2023 02:58:53] ~ Gülnur: yarın amcamlarla bir pikiğe gidicez.
+[2.07.2023 02:59:00] ~ Gülnur: sonrasında full pc başında olucam
+[2.07.2023 02:59:11] Sümeyye Gökalp: Estağfirullah
+[2.07.2023 02:59:25] ~ Gülnur: ufaktan bu sprint de bir şeyler biter.  görürüz oyunu, asıl sonraki sprint çok iş var
+[2.07.2023 02:59:34] ~ Gülnur: zaten planlamamızı ona göre yaptık :D
+[2.07.2023 02:59:40] Sümeyye Gökalp: Tamamdır 😊
+[2.07.2023 03:00:01] ~ Gülnur: tekradan iyi bayramlar yarın konuşuurz yine :D ben kaçayım artık :D
+[2.07.2023 03:00:20] Sümeyye Gökalp: Anlaştık, benim bu yaptığımız işleri readme ye girebilmem için bi toplantı da yapalım olur mu
+[2.07.2023 03:00:26] Sümeyye Gökalp: Sen bana bi anlat 😅
+[2.07.2023 03:00:33] ~ Gülnur: tamamdır.
+[2.07.2023 03:00:38] ~ Gülnur: bu sprint ne zaman sondu ? :D
+[2.07.2023 03:00:51] Sümeyye Gökalp: Tamamdır, iyi bayramlar, görüşürüz
+[2.07.2023 03:00:56] Sümeyye Gökalp: 3 Temmuz
+[2.07.2023 03:01:31] ~ Gülnur: tamam yarın akşam toplanmaya çalışalım. olmadı ben bir şeyler yaparım.
+[2.07.2023 03:01:53] Sümeyye Gökalp: Tamam yine haberleşiriz
+[2.07.2023 03:02:12] ~ Gülnur: 🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
+[2.07.2023 12:49:18] ~ Gülnur: https://youtu.be/XUx_QlJpd0M?t=629
+
+Herkesin özellikle muhammed bu videoyu 2 kere hatta 3 kere izlemeni rica edicem. Unity'de ki input sistemi
+[2.07.2023 12:49:28] ~ Gülnur: ayrıca, şuanda dokunamtik inpıut sistemi entegre edildi.
+[2.07.2023 13:27:51] Sümeyye Gökalp: Gülnur
+[2.07.2023 13:28:59] Sümeyye Gökalp: Ben bu commitleri nasıl çekeceğim
+[2.07.2023 13:31:09] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+‎[2.07.2023 13:33:57] Sümeyye Gökalp: ‎video dahil edilmedi
+[2.07.2023 13:35:27] ~ Gülnur: Birazdan bakayim
+[2.07.2023 13:37:12] ~ Gülnur: Zaten almış gibi duruyosun
+[2.07.2023 13:39:47] Sümeyye Gökalp: Aynen almışım 😃
+[2.07.2023 13:40:52] ~ Gülnur: Mesela el ile cek edelim
+[2.07.2023 13:40:52] ~ Gülnur: Proje dosyasını ac
+[2.07.2023 13:40:52] ~ Gülnur: Asset > script > input> inputmanager.cs var ise olmuştur
+[2.07.2023 13:41:51] ~ Gülnur: Super
+[2.07.2023 13:42:03] ~ Gülnur: Simdi
+[2.07.2023 13:42:31] Sümeyye Gökalp: İlk unity i açtığımda oyunun eski haliydi, sonra bunu yaptıktan sonra tekrar unity e  baktım gelmiş☺️
+[2.07.2023 13:42:43] ~ Gülnur: Sadecee readme dosyasını xommit cik sumeyye
+[2.07.2023 13:43:07] Sümeyye Gökalp: Yani sadece orada mı düzenleme yap diyorsun
+[2.07.2023 13:43:23] ~ Gülnur: Diğer dosyaların hepsini discard changes yapman gerekiyor Diğer dosyaları commit cikma sadece readme dosyasi
+‎[2.07.2023 13:45:31] Sümeyye Gökalp: ‎ses dahil edilmedi
+[2.07.2023 13:46:53] Sümeyye Gökalp: Yok yok tamamdır ben sadece senin gösterdiğin adımlar üzerinden ilerliyorum
+[2.07.2023 13:50:27] ~ Gülnur: Şimdi adım adım gidelim.
+1- dün ben biraz düzenledim ama sonra sende yapmış olabilirsin diye geri aldım herşeyi. Ama çok da bir şey yoktu.
+
+2- senin readmede sprint düzenlemesi yapabilmen için evet konuşmamız lazım ama olay sen yönlendir, mesala tahmin puanını nasıl yaptık diye oradaki başlıkları yaz sırasıyla bende anlatayım konuşalım wp üzerinden.
+
+Neden wp üzerinden dışardayım pc yanımda değil ama telefondayım. En azından sprint 2 düzenlemesi bitsin. Akşamada ben hızlıca kontrol ederim.
+[2.07.2023 13:52:37] ~ Gülnur: Ekstra olarak readmede düzenlerken bir şeyde takılırsan örneğin madde işareti yapma gibi hemen ss at bana derdini anlat bende dilim döndüğünce anlatmaya çalışayım.
+[2.07.2023 13:52:48] ~ Gülnur: Ama zaten
+[2.07.2023 13:52:56] ~ Gülnur: Biliyorsun düzenlemeli bence o kadarı bile bize bu sprint de yeterli olur.
+[2.07.2023 13:53:25] Sümeyye Gökalp: 1- Aynen sadece başlıkları yazmıştım. 
+
+2. Madde için şimdi misafirim gelecek, akşam müsait olursan akşam halletsek olur mu
+[2.07.2023 13:54:18] ~ Gülnur: Bana uyar ben kod yazarken sende sprint i düzenlersin
+[2.07.2023 13:54:18] ~ Gülnur: Ama geç gelebilirim
+[2.07.2023 13:54:30] ~ Gülnur: Sorun olmaz demi
+[2.07.2023 13:54:38] Sümeyye Gökalp: Tamam sorun değil tabii ki
+[2.07.2023 13:54:44] Sümeyye Gökalp: Akşama görüşürüz
+[2.07.2023 13:55:03] Sümeyye Gökalp: Muhammet sen de Gülnur un izlememizi istediği videoyu izleyebilir misin müsait olduğun bir vakitte ‎<Bu mesaj düzenlendi>
+‎[2.07.2023 13:55:03] ~ Gülnur: ‎Çıkartma dahil edilmedi
+[2.07.2023 13:55:03] ~ Gülnur: Görüşürüz
+[2.07.2023 23:12:04] ~ Gülnur: Ben pc başındayım başlıyorum
+[2.07.2023 23:12:15] Sümeyye Gökalp: Tamam bende geliyorum
+[2.07.2023 23:14:04] ~ Gülnur: istersen ben tüm readme sayfasını düzenlerim sümeyye ?
+[2.07.2023 23:14:11] ~ Gülnur: sen sadece kontrol etsen yeterli olur.
+[2.07.2023 23:14:18] ~ Gülnur: 1 saat sürmez benim için.
+[2.07.2023 23:15:24] Sümeyye Gökalp: Hmmm benim için farketmez de müsaitsen dc konuşsak önce
+[2.07.2023 23:17:51] ~ Gülnur: tamamdır.
+[2.07.2023 23:18:56] Sümeyye Gökalp: Geldim
+[2.07.2023 23:19:17] Sümeyye Gökalp: Muhammet müsaitsen gel sende
+‎[2.07.2023 23:19:45] Sümeyye Gökalp: WhatsApp Chat - U-134 Bootcamp .zip ‎belge dahil edilmedi
+[2.07.2023 23:20:11] Sümeyye Gökalp: 2. Sprint Daily Scrum Chats
+[2.07.2023 23:24:20] ~ Gülnur: dc'deyim.
+[2.07.2023 23:24:46] Sümeyye Gökalp: Bende
+‎[2.07.2023 23:26:20] ~ Gülnur: ‎görüntü dahil edilmedi
+‎[2.07.2023 23:41:23] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[2.07.2023 23:58:43] Muhammet Uysal Bootcamp: Ben çalışıyorum ya yoğundu o yüzden gelemedim kusura bakmayın
+[3.07.2023 00:05:10] ~ Gülnur: Muhammed bakman lazım
+[3.07.2023 00:05:18] ~ Gülnur: Yüzdük yüzdük kuyruğuna geldik
+[3.07.2023 00:05:27] ~ Gülnur: Biraz heyecan hirs
+[3.07.2023 00:05:51] ~ Gülnur: Bizi geç ama en çok senin ihtiyacın var.
+[3.07.2023 00:05:58] ~ Gülnur: Zaten 3 kişiyiz yetisemiyoruz
+[3.07.2023 00:06:11] ~ Gülnur: Yüzümüzü Biraz hafiflet
+‎[3.07.2023 02:04:57] ~ Gülnur: ‎görüntü dahil edilmedi
+[3.07.2023 02:05:07] ~ Gülnur: oyunun yaron videosunu atarım.
+‎[3.07.2023 02:09:24] ~ Gülnur: ‎görüntü dahil edilmedi
+[3.07.2023 02:11:12] Sümeyye Gökalp: Tamamdır eline sağlık
+[3.07.2023 02:11:25] Sümeyye Gökalp: Bitirdik mi şimdi 2. Sprinti
+[3.07.2023 02:11:34] Sümeyye Gökalp: Yapılacak bir şey kaldı mı?
+‎[3.07.2023 02:12:27] ~ Gülnur: ‎görüntü dahil edilmedi
+[3.07.2023 02:12:35] ~ Gülnur: readme düzenliyorum.
+[3.07.2023 02:12:45] ~ Gülnur: oyunu oynamak istersen çekip unity'de start tuşuna basabilirsin.
+[3.07.2023 02:13:03] Sümeyye Gökalp: Vayy oynaya bilir miyim
+[3.07.2023 02:13:11] Sümeyye Gökalp: Hemen deniyorum
+[3.07.2023 02:13:18] ~ Gülnur: evet evet.
+[3.07.2023 02:13:21] ~ Gülnur: daha basit'den ama
+[3.07.2023 02:13:26] ~ Gülnur: olsun niye bir şeyler hareket ediyor.
+‎[3.07.2023 02:18:44] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[3.07.2023 02:22:46] Sümeyye Gökalp: Buna binaen discard Changes dedim
+‎[3.07.2023 02:24:30] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[3.07.2023 02:25:43] ~ Gülnur: birazdan geliyor.
+[3.07.2023 02:26:00] ~ Gülnur: sümeyye bir şey sorucam
+[3.07.2023 02:26:06] ~ Gülnur: chat gpt yasakmı ?
+[3.07.2023 02:26:35] Sümeyye Gökalp: Kod yazarken kullanmak için mi soruyorsun?
+[3.07.2023 02:26:43] ~ Gülnur: evet ?
+‎[3.07.2023 02:27:21] Sümeyye Gökalp: ‎ses dahil edilmedi
+[3.07.2023 02:28:16] Sümeyye Gökalp: Gelmedi bu ya kapatıp yatsam sabaha gelir mi😂
+[3.07.2023 02:28:31] ~ Gülnur: 5 dakika :D
+[3.07.2023 02:28:36] ~ Gülnur: readme düzenliyorum.
+[3.07.2023 02:29:14] Sümeyye Gökalp: Tamam başla süre yoksa gidip yatacağım sfgjmncf
+[3.07.2023 02:29:27] ~ Gülnur: kontrol edersin
+[3.07.2023 02:29:30] ~ Gülnur: 5 dk please
+[3.07.2023 02:36:10] ~ Gülnur: https://github.com/wilkagul/MetoCod
+
+bence bakmalısın.
+[3.07.2023 02:36:13] ~ Gülnur: readme güncel
+[3.07.2023 02:36:15] ~ Gülnur: sprint güncel.
+[3.07.2023 02:36:17] ~ Gülnur: oyun güncel
+[3.07.2023 02:36:28] ~ Gülnur: gif şeklinde attım çicek oldu
+[3.07.2023 02:39:25] Sümeyye Gökalp: Harika olmuş! Beni büyüledi, bence Selçuk yine bize tam puan verecek 🥺😂😂
+[3.07.2023 02:40:21] Sümeyye Gökalp: Ellerine sağlık, açıklamalar çok samimi, bu saatte ben bu kadar uğraşmazdım 👏🏻👏🏻👏🏻
+[3.07.2023 02:46:05] Sümeyye Gökalp: Ben yatıyorum sabah tekrar bakacağım, emeklerin için tekrar teşekkürler 🙏🏻 yarın bende asistanla görüştükten sonra videoları izlemeye başlarım, iyi geceler
+[3.07.2023 13:04:40] Sümeyye Gökalp: ‎Bu mesajı sildiniz.
+‎[3.07.2023 13:15:16] Sümeyye Gökalp: ‎video dahil edilmedi
+‎[3.07.2023 13:19:24] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[3.07.2023 19:42:36] Sümeyye Gökalp: selam read me dosyasında düzenleme yapacağım
+[3.07.2023 21:11:19] Sümeyye Gökalp: İşimi bitirdim, metinler üzerinde düzenlemeler ve 3. Sprint başlıklarını yazdım ‎<Bu mesaj düzenlendi>
+[4.07.2023 14:12:51] Sümeyye Gökalp: Arkadaşlar selam, puanımız belli olmuş, akşama açıklanacak bilgilerinize…
+[4.07.2023 19:26:43] Sümeyye Gökalp: Selam herkese puanımız belli oldu
+[4.07.2023 19:27:07] Sümeyye Gökalp: 8 te 8 aldık
+[4.07.2023 19:27:18] Sümeyye Gökalp: Tebrik ederim
+[4.07.2023 20:56:11] Sümeyye Gökalp: Selçuk birkaç düzenleme yapmamı istedi onu düzenlicem, ben readme dosyası üzerinde çalışıyorum
+[4.07.2023 21:19:04] ~ Gülnur: Ooo tebrikler
+[4.07.2023 21:19:33] ~ Gülnur: Ben yarından sonra full burdayım hızlıca diğer işleri halledixen
+[4.07.2023 21:20:01] ~ Gülnur: O yüzden yazamadım kusura bakma
+[4.07.2023 21:20:12] ~ Gülnur: Tüm mesajlarına dönüş yapicam
+[4.07.2023 21:20:58] Sümeyye Gökalp: Sıkıntı yok, bende zaten daha 3. Sprint buluşmasını izleyemedim
+[4.07.2023 21:21:22] Sümeyye Gökalp: Şimdi onu izleyip aldığım notları sizinle paylaşırım
+[4.07.2023 21:22:27] Sümeyye Gökalp: Readme de de çalışmaya henüz başlayamadım, Selçuk a birkaç şey sordum onlara geri dönsün ona göre revize edeceğim
+[4.07.2023 21:22:49] Sümeyye Gökalp: Peki bir şey sormak istiyorum
+[4.07.2023 21:23:06] Sümeyye Gökalp: Oyunu kaç güne çıkarabiliriz?
+[4.07.2023 21:23:56] ~ Gülnur: Hafta sonu netleşir her şey
+[4.07.2023 21:24:02] Sümeyye Gökalp: Bazı ekipler bitirip teslim etmiş, bizde biraz erken bitirip sunum için hazırlansak nasıl olur?
+[4.07.2023 21:24:16] ~ Gülnur: Hmm mantıklı
+[4.07.2023 21:24:23] ~ Gülnur: Elimden geleni yaparim
+[4.07.2023 21:25:02] Sümeyye Gökalp: Çok sağ ol
+[4.07.2023 21:25:14] Sümeyye Gökalp: Elimden bir şey gelirse çekinme söyle lütfen
+[4.07.2023 21:25:45] ~ Gülnur: Anlaştık ❤️
+[4.07.2023 21:26:37] Sümeyye Gökalp: Ya bazen seni anlamayıp çileden çıkarıyor olabilirim, fakat maalesef oyun literatürüne yeni yeni hakim oluyorum ama elimden geleni yaparım
+[4.07.2023 21:27:46] ~ Gülnur: Hiç problemi değil bende iyi değilim iste
+[4.07.2023 21:27:55] ~ Gülnur: Elimden geleni yapiyom
+[4.07.2023 21:29:20] Sümeyye Gökalp: Her şey için tekrar teşekkürler
+[4.07.2023 21:30:18] Sümeyye Gökalp: Bu arada Selçuk dönmüş bugün sorularımı yanıtlayamayacakmış, o yüzden readme dosyasında bugün çalışamayacağım
+[4.07.2023 21:30:33] Sümeyye Gökalp: Sprint 3 notlarını çıkarır çıkarmaz paylaşırım
+[4.07.2023 21:30:37] ~ Gülnur: Tamamdir
+[4.07.2023 21:30:43] Sümeyye Gökalp: Cümleten iyi akşamlar
+[4.07.2023 21:31:06] ~ Gülnur: 🤚🙏🏻🤗🤗
+[5.07.2023 00:09:48] Sümeyye Gökalp: Selamlar Sprint-3 buluşması notlarını giriyorum:
+[5.07.2023 00:10:10] Sümeyye Gökalp: 1- 3.Sprint notları son tarih:17 Temmuz saat 10.00 (öncesinde ürün teslim formları gelir)
+Ürünlerin teslim tarihi: 18 Temmuz saat 12.00 !deadline da bi esneklik olmayacak.
+[5.07.2023 00:12:47] Sümeyye Gökalp: 2- Bu sprintte Video teslim edilmesi lazım, kodların mutlaka githupta olması lazım vb. çünkü ön jürinin çok az vakti var jüriye yetiştirmek için. Videoyu son güne bırakırsanız yetiştiremezsiniz, şimdiden video ya bakmaya başlayın. Video max 1 dk  ve biraz merak uyandırmalı. 1 dk dan uzun gelirse ön jüri izlemeyecek. Video da olabildiğince heyecan yaratmak ve gameplay i göstermek önemli. Sinematik olmasından öte gameplay olmalı ki jüri oyunu anlasın. Çünkü bu jürinin puanlama videosu. Arkaplanda telifsiz ses veya seslendirme kullanılabilir.
+[5.07.2023 00:13:09] Sümeyye Gökalp: 3- Hesap public olduğundan tolgay hoca eklenmese de oluyor maksat kodlara erişebilmek
+[5.07.2023 00:13:25] Sümeyye Gökalp: 4- Ürünün son kodları mutlaka githupta görünmeli
+[5.07.2023 00:13:41] Sümeyye Gökalp: 5- Herkes kod yadı mı yazmadı mı kontrol edilmeyecek
+[5.07.2023 00:14:19] Sümeyye Gökalp: 6- Mezuniyet için en azından unity de hoplayan zıplayan bir şey yapsanızda yetiyor :D ****
+[5.07.2023 00:14:45] Sümeyye Gökalp: 7- SORU: Sprint gönderemeyenler sadece mezun olabiliyor, sıralamaya giremiyor diye biliyorum doğru mu ? -Evet ilk 14 e girenlerin tüm puanları 100 oluyor
+[5.07.2023 00:15:35] Sümeyye Gökalp: 8- Ön jüri değerlendirmsi ve jüri değerlendirmesi ayrı olacak,  sunum yeteneği takım çalışması vb işlere ana jüri bakacak
+[5.07.2023 00:15:51] Sümeyye Gökalp: 9- İlk 14 e kaldıktan sonra jüriye sunum yapılıyor, kalmayanlar sunum yapmıyor, 3 birinci seçiliyor, unity 1.si, flutter1.si, jüri özel ödülü(ikisinden biri de olabilir)
+[5.07.2023 00:16:10] Sümeyye Gökalp: 10- Final değerlendirmesinde ana jüri, bütün iş bir kişiye mi yaptırılmış takım çalışması mı bunu anlamaya çalışıyor, sunumda zaten bu yeterince belli oluyormuş, olmuyorsa da belli etmenizi istiyoruz ki jüri iyice anlasın. ilk 14 e kalanlar zaten orada sunumdan önce sizle görüşülecek, sunum hazırlığı için vakit verilecek.
+[5.07.2023 00:16:33] Sümeyye Gökalp: 11- Video için form atılacak oraya yükleyeceğiz.
+[5.07.2023 00:19:46] Sümeyye Gökalp: hepsi bu kadar
+[5.07.2023 00:20:04] Sümeyye Gökalp: yani bizi ilgilendiren kısımları :)
+[5.07.2023 00:20:33] Sümeyye Gökalp: aklınıza takılan soru olursa yazın biliyorsam yanıtlıyım yoksa selçuk a soralım
+‎[5.07.2023 00:26:21] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+‎[5.07.2023 00:26:58] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+[5.07.2023 09:35:09] ~ Gülnur: Teşekküşer sümeyye eline sağlık
+[5.07.2023 13:21:45] Sümeyye Gökalp: Arkadaşlar selam, akşama toplantı ayarlayıp sürecin üzerinden geçelim, herkes oky mi?
+[5.07.2023 13:25:34] ~ Gülnur: Bugün ben biraz yoğunum toplanti zor gibi
+[5.07.2023 13:26:06] Sümeyye Gökalp: Tamam acelemiz yok müsait olunca haber ver, hepimize uygun bir saat planlayalım
+[5.07.2023 13:26:30] ~ Gülnur: Tamamdır
+[5.07.2023 13:26:36] Sümeyye Gökalp: Muhammet sende katılmaya çalış.
+[5.07.2023 15:19:29] Muhammet Uysal Bootcamp: Abla akşam çalışıyorum ben bu aralar cafe çok yoğun yarın öğlen sonra ya da sabah yapsak nasıl olur
+[5.07.2023 15:22:08] Muhammet Uysal Bootcamp: Ben kurulumları yaptım videoları da izledim başka yapmam gereken bir şey var mı beraber çalışma olayı için de sabahları zaman bulurum kendime
+[5.07.2023 16:22:28] Sümeyye Gökalp: Ayarlamaya çalışalım
+[5.07.2023 16:22:37] Sümeyye Gökalp: Buna Gülnur dönecektir
+[5.07.2023 16:38:54] Muhammet Uysal Bootcamp: Tamamdır
+[5.07.2023 16:49:50] ~ Gülnur: Yarın öğleden sonra 5 gibi yapalım o zaman
+[5.07.2023 16:56:02] Muhammet Uysal Bootcamp: Abla 5 de işe başlıyorum ben 4.30 gibi biterebilecegimiz bir saat ayarlama şansınız var mı
+[5.07.2023 16:58:28] ~ Gülnur: Yarın saat 13:00'da yapalım, Muhammed senden ricam kodlara bakman.
+[5.07.2023 16:58:39] ~ Gülnur: bak bakalım neler anlıyosun
+[5.07.2023 17:23:01] Sümeyye Gökalp: Ben 14 gibi ancak müsait olabilirim
+[5.07.2023 19:45:29] Muhammet Uysal Bootcamp: Tamam abla
+[6.07.2023 10:46:35] Sümeyye Gökalp: Günaydın, bugün yapıyor muyuz toplantı?
+[6.07.2023 12:22:02] ~ Gülnur: 14 benim için zor gibi
+[6.07.2023 12:22:14] ~ Gülnur: 13 olsa iyi olurdu
+[6.07.2023 12:54:21] Sümeyye Gökalp: 13 için bi 10 dk girip çıkabilirim, 20 geçe evden çıkacağım
+[6.07.2023 12:54:31] Sümeyye Gökalp: Uygunsa yapalım hemen
+[6.07.2023 12:55:14] ~ Gülnur: Tamam olur
+[6.07.2023 12:55:22] Sümeyye Gökalp: Muhammet sen?
+[6.07.2023 12:55:29] Sümeyye Gökalp: Müsait miydin
+[6.07.2023 12:57:17] Sümeyye Gökalp: dc deyim
+‎[7.07.2023 01:07:03] ~ Gülnur: ‎görüntü dahil edilmedi
+[7.07.2023 01:08:07] Muhammet Uysal Bootcamp: İzlemedigin dersler kaldı mı abla
+[7.07.2023 01:08:29] ~ Gülnur: bildiğim kadarı ile kalmadı
+[7.07.2023 01:08:41] ~ Gülnur: video falan diyor
+[7.07.2023 01:08:44] Muhammet Uysal Bootcamp: Ona bir bak abla bana tamamlandı diye geldi
+[7.07.2023 01:09:20] ~ Gülnur: mesajda da tamamalnadı diyor
+[7.07.2023 01:09:20] ~ Gülnur: ama
+[7.07.2023 01:09:25] ~ Gülnur: video kaydı nerden çıktı
+[7.07.2023 01:09:47] Muhammet Uysal Bootcamp: Aaaa ben tamamen yanlış anladım
+[7.07.2023 01:09:51] Sümeyye Gökalp: Bu zorunlu değil
+[7.07.2023 01:09:57] ~ Gülnur: tmm süper o zaman
+[7.07.2023 01:09:59] ~ Gülnur: es geçiyorum.
+[7.07.2023 01:10:04] Sümeyye Gökalp: Akademinin tanıtımı için deneyimlerini paylaştığın video işte
+[7.07.2023 01:10:11] ~ Gülnur: tmm tmm
+[7.07.2023 01:10:11] Sümeyye Gökalp: Aynen isteyen çekiyor
+[7.07.2023 01:16:06] ~ Gülnur: tamamdır proje üzerinde çalışıyporum
+[7.07.2023 01:16:08] ~ Gülnur: bilginiz olsun
+[7.07.2023 01:16:18] ~ Gülnur: commit falan çıkmayın aman diyim confilict olmayalım
+[7.07.2023 01:19:15] ~ Gülnur: Biizm oyunun touch'u bugluymuş
+[7.07.2023 01:19:22] ~ Gülnur: https://youtu.be/4MOOitENQVg
+
+Bu videodan bakarak yapıcam.
+[7.07.2023 11:30:49] ~ Gülnur: ne yapıyorsunuz ?
+[7.07.2023 11:31:50] Sümeyye Gökalp: Ben sizden haber bekliyorum
+[7.07.2023 11:32:08] ~ Gülnur: dc gelin
+[7.07.2023 11:32:22] Sümeyye Gökalp: 5 dk geliyorum
+[7.07.2023 11:35:49] Sümeyye Gökalp: Geldim
+[7.07.2023 11:36:02] ~ Gülnur: bende 5 dakika rica edim
+[7.07.2023 11:36:05] ~ Gülnur: sigara içim o sırada
+[7.07.2023 11:36:26] Sümeyye Gökalp: Muhammet hadi yetiş :)
+[7.07.2023 11:46:36] Sümeyye Gökalp: 10 dk oldu
+[7.07.2023 13:38:54] Muhammet Uysal Bootcamp: Ne yapacağız şimdi
+[7.07.2023 14:11:06] ~ Gülnur: // New İnput System. Touch Screen - Position
+// Object Pooling
+// Trigger Collider
+// VFX - Efects
+// Text Mesh Pro
+// Scriptable Obje
+// Access modifiers
+// OOP
+// Singleton DEsing Pattern
+// Using ne işe yarar
+[7.07.2023 14:11:09] ~ Gülnur: dc ye gel
+[7.07.2023 14:24:13] Muhammet Uysal Bootcamp: Geldim
+[7.07.2023 14:42:23] ~ Gülnur: Singleton Design Pattern
+[7.07.2023 14:58:55] ~ Gülnur: https://chat.openai.com/share/3a803c42-00f1-4da7-910c-831fca60c574
+[7.07.2023 15:20:31] ~ Gülnur: // New Input System -> https://youtu.be/4MOOitENQVg
+// Singleton Design Pattern Nedir ? 
+// Datanın Hazırlandığı Kısım
+// OOP Bilmeni Gerekiyor.
+// Attribute
+// Textmesdh pro nedir ?
+// Coroutine
+// Object Pooling Nedir ?
+// Particle System
+// Ontrigger ve OnCollision
+// Rigidbody
+// IsTrigger
+// Movement
+[7.07.2023 15:24:26] ~ Gülnur: Destroy
+‎[7.07.2023 15:32:53] ~ Gülnur: Metocod.apk ‎belge dahil edilmedi
+[7.07.2023 15:37:34] ~ Gülnur: // New Input System -> https://youtu.be/4MOOitENQVg
+// Singleton Design Pattern Nedir ? 
+// Datanın Hazırlandığı Kısım
+// OOP Bilmeni Gerekiyor.
+// Attribute
+// Textmesdh pro nedir ?
+// Coroutine
+// Object Pooling Nedir ?
+// Particle System
+// Ontrigger ve OnCollision
+// Rigidbody
+// IsTrigger
+// Movement
+// SerializeFiedl
+// Destroy
+‎[7.07.2023 15:38:24] Sümeyye Gökalp: ‎görüntü dahil edilmedi
+‎[7.07.2023 15:39:38] Muhammet Uysal Bootcamp: ‎görüntü dahil edilmedi
+‎[7.07.2023 15:58:10] ~ Gülnur: Metocod.apk ‎belge dahil edilmedi
+[7.07.2023 16:31:20] Sümeyye Gökalp: Pc gitti
+[7.07.2023 16:31:26] Sümeyye Gökalp: Kapandı
+[7.07.2023 16:31:28] ~ Gülnur: haha :D
+[7.07.2023 16:31:32] ~ Gülnur: yetmedi ram'i
+[7.07.2023 16:31:39] Sümeyye Gökalp: 😅
+[7.07.2023 16:31:38] ~ Gülnur: inşallah açılır
+[7.07.2023 16:31:45] Sümeyye Gökalp: Hiii eyvah
+[7.07.2023 16:31:54] ~ Gülnur: eskisyme
+[7.07.2023 16:31:59] ~ Gülnur: kaldırmamış olabilir :D
+[7.07.2023 16:32:03] Sümeyye Gökalp: Açıldı
+[7.07.2023 16:32:28] Sümeyye Gökalp: Çok ısınmış
+[7.07.2023 16:32:57] Sümeyye Gökalp: Ben bir daha denemiyim o zaman şimdi
+[7.07.2023 16:33:51] Sümeyye Gökalp: Apk yı android yükleyip oradan bakıyım
+[8.07.2023 17:04:51] ~ Gülnur: Baktınız mı oyuna
+[8.07.2023 17:18:23] Sümeyye Gökalp: Baktım ben
+[8.07.2023 17:18:28] Sümeyye Gökalp: Gayet güzel bence
+[8.07.2023 17:19:19] Sümeyye Gökalp: Bu attığın hisseleri ne zamana kadar bakalım
+[8.07.2023 17:19:31] Sümeyye Gökalp: Liste olacak
+[8.07.2023 17:21:24] ~ Gülnur: Hemen bakın
+[8.07.2023 17:21:32] ~ Gülnur: Chat gpt yi kullanın falan
+[8.07.2023 17:22:55] Sümeyye Gökalp: Hemen deme ya :)
+[8.07.2023 17:23:12] Sümeyye Gökalp: Dün biliyorsun çok yorulduk smsldlxşel
+[8.07.2023 17:23:24] Sümeyye Gökalp: Bir dahaki toplantı ne zamansa ozamana kadar bakalım
+[8.07.2023 17:23:36] Sümeyye Gökalp: Bir tatil yapalım hak ettik 😎
+[8.07.2023 17:24:40] ~ Gülnur: Olur
+[8.07.2023 17:24:51] ~ Gülnur: Ama son haftamiz
+[8.07.2023 17:26:51] Sümeyye Gökalp: Yok tamam bunlara bakarız onda sıkıntı yokta toplantıyı ne zamana yapalım pazartesi dersen hemen tamam bakarız ama çarşamba dersen biraz yayarız
+[8.07.2023 17:27:09] Sümeyye Gökalp: Sen memlekette olduğu için sana ayak uyduralım diye soruyorum
+[8.07.2023 17:30:14] ~ Gülnur: Carsamba
+[8.07.2023 17:30:23] ~ Gülnur: Uygundur
+[8.07.2023 17:32:41] Sümeyye Gökalp: Bu hafta içerisinde yapılacaklar listesi:
+1- sprint notları girilecek-Sümeyye 
+2- oyun videosu atılacak- Muhammet( WhatsApp dan videonun kalitesi düşebilir, mail olarak iletebilir misin)
+3- tanımlara çalışılacak- tüm ekip
+4- retro toplantısı, çarşamba saat belirlenecek
+[8.07.2023 17:32:48] Sümeyye Gökalp: Eksik bir şey var mı?
+[9.07.2023 17:25:55] Muhammet Uysal Bootcamp: Yok gibi abla
+[9.07.2023 17:26:42] Muhammet Uysal Bootcamp: Çarşamba günü olacak toplantı için ben yine sabah taraftarıyım
+[9.07.2023 17:33:15] Sümeyye Gökalp: 12.10 gibi başlarsak ben 13:20’ye kadar müsaitim sonra çıkmam gerekiyor, ya da saat 14:00’den sonrası için daha uzun bir toplantı planlayabiliriz, size nasıl uyarsa
+[9.07.2023 19:09:39] ~ Gülnur: Uygundur
+[9.07.2023 20:54:32] Muhammet Uysal Bootcamp: O Zaman yapalım o zaman
+[10.07.2023 13:02:36] Sümeyye Gökalp: selam, trello dan 3. sprintti doldurmaya başlıyorum, çakışma olmasın
+[10.07.2023 13:27:04] ~ Gülnur: Tamamdir
+[10.07.2023 13:28:31] Sümeyye Gökalp: sprint notlarında ürün durumu bölümünde yüzde olarak değil de görsel olarak girmemiz gerekiyormuş
+[10.07.2023 13:28:47] Sümeyye Gökalp: o sebeple o kısmı sildim
+[10.07.2023 13:29:10] Sümeyye Gökalp: gülnur oraya sen daha sonra fotoğraflar ekleyebilir misin
+[10.07.2023 13:30:08] Sümeyye Gökalp: soru 2: sprint review karalarına bunları yazdım, Scriptable obje ile level sistemi yazılmış, level içerikleri belirlenip algoritmaları kodlanmış, level içerikleri Code karakterimize entegre edilmiş, Sound manager hazırlanmış ve sesler entegre edilmiştir. Ekip üyelerinin yetersizliği sebebiyle bazı işlerin askıya alınmasına karar verilmiştir. Sprint Review katılımcıları: Hamide Sümeyye Gökalp, Gülnur Doğancıoğlu, Muhammet Uysal.
+[10.07.2023 13:30:24] Sümeyye Gökalp: revize etmek ister misin @905392201855
+[10.07.2023 13:34:26] Sümeyye Gökalp: soru 3: sprint 3 notlarına ne yazayım. Oyun tamamlandı, sesler entegre edildi, oyunun videosu hazırlandı. mı yazayım?
+[10.07.2023 13:52:12] Sümeyye Gökalp: Sprint düzenlede yapılacaklar listesi:
+1-Ürün durumu kısımlarına ürün ss leri eklenecek 
+2- sprint board kısmına trello ss i eklenecek
+3- Product Backlog URL bağlantısı eklenecek 
+4- review, retro ve sprint notları istenirse yeniden düzenlenecek 5- daily scrum chats eklenecek ‎<Bu mesaj düzenlendi>
+[10.07.2023 13:58:10] Sümeyye Gökalp: tamam benim işim bitti
+[11.07.2023 19:50:45] Sümeyye Gökalp: Selam, yarın toplantı yapıyor muyuz?
+[11.07.2023 19:51:05] Sümeyye Gökalp: Yapıyorsak kaçta?
+[11.07.2023 19:53:43] Muhammet Uysal Bootcamp: Ben saat 4 e kadar musahitim
+[11.07.2023 22:56:16] Sümeyye Gökalp: @905392201855? Sen müsait misin
+[11.07.2023 23:21:00] ~ Gülnur: Evet
+[11.07.2023 23:21:23] ~ Gülnur: Siz saatu ayarlayın 12 2 arası uygun bende
+[11.07.2023 23:25:18] Sümeyye Gökalp: 12.20 -13.20 olsun o zaman, sonra benim çıkmam gerekiyor
+[12.07.2023 12:23:12] Sümeyye Gökalp: Selam
+[12.07.2023 12:23:28] Sümeyye Gökalp: Toplantı yapıyor muyuz
+[12.07.2023 12:25:42] Muhammet Uysal Bootcamp: Selam
+[12.07.2023 12:25:47] Muhammet Uysal Bootcamp: Ben musahitim
+[12.07.2023 12:26:29] Sümeyye Gökalp: Tamamdır Gülnur da yazsın başlayalım
+[12.07.2023 12:38:46] ~ Gülnur: 20dkya geliyorum
+[12.07.2023 12:40:24] Sümeyye Gökalp: Toplantıyı 1 saatte öteleyebiliriz dediğim gibi ben 13.20 de evden çıkacağım çünkü,
+[12.07.2023 12:41:02] Sümeyye Gökalp: Dilerseniz 13.40 a kaydıralım?
+[12.07.2023 12:41:54] ~ Gülnur: Olur daha iyi olur
+[12.07.2023 12:42:08] Sümeyye Gökalp: Tamamdır
+[12.07.2023 12:42:27] Sümeyye Gökalp: Yeni toplantı saatimiz *13.40*
+[12.07.2023 13:35:45] ~ Gülnur: https://meet.google.com/doz-xepf-mvu
+[12.07.2023 13:43:59] Sümeyye Gökalp: Eczanedeyim hemen geliyorum
+[12.07.2023 13:44:33] ~ Gülnur: @905493240032 ?
+[12.07.2023 13:45:59] Muhammet Uysal Bootcamp: Geldim
+‎[12.07.2023 14:10:01] ~ Gülnur: ‎görüntü dahil edilmedi
+[12.07.2023 14:11:34] Muhammet Uysal Bootcamp: Benim sesim gelmiyor sanirim
+[12.07.2023 14:11:51] Muhammet Uysal Bootcamp: Yazdim
