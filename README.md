@@ -233,13 +233,13 @@ Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden
 
 - **Sprint board screenshotları:**
 
-![Backlog 3](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/SprintBoardUpdated/SprintBoard-3.jpeg)
+![Backlog 3](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/SprintBoardUpdated/SprintBoard-3.jpg)
 
  ## Ürün Durumu
 Ekran Görüntüleri
 - **Oyundan Bir Görsel:**
 
-![Backlog 3](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/Game/Sprint-3.gif)
+![Backlog 3](https://github.com/wilkagul/MetoCod/blob/main/Assets/Sprint/Sprint-3/Game/Sprint-3.jpg)
 
 ## Sprint Review
 
