@@ -250,7 +250,7 @@ Scriptable obje ile level sistemi yazılmış, level içerikleri belirlenip algo
 
 - **Alınan Kararlar**
   
-Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+Oyun başarı ile tamamlanmıştır. Gelecek projelerde görüşmek üzere, tüm emek verenlere teşekkür ederiz.
 
 ## Product Backlog URL
 
